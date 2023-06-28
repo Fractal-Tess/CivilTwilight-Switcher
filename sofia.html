@@ -1,0 +1,510 @@
+<!DOCTYPE html><!--
+scripts and programs that download content transparent to the user are not allowed without permission
+--><html lang=en><head><meta http-equiv=Content-Type content="text/html; charset=utf-8"><title>Sunrise and sunset times in Sofia, януари 2023</title><meta name=description content="Calculations of sunrise and sunset in Sofia – Bulgaria for януари 2023. Generic astronomy calculator to calculate times for sunrise, sunset, moonrise, moonset for many cities, with daylight saving time and time zones taken in account."><meta name=robots content="max-image-preview:large"><meta property="og:image" content="https://www.timeanddate.com/scripts/cityog.php?title=Sunrise%20and%20Sunset%20in&amp;tint=0xfaca4e&amp;city=Sofia&amp;country=Bulgaria&amp;image=sofia1"><meta property="og:image:width" content=1366><meta property="og:image:height" content=738><meta property="og:type" content=website><style>
+@font-face{font-family:iconfont;src:url("/common/fonts/iconfont.woff2?v8") format("woff2"),url("/common/fonts/iconfont.woff?v8") format("woff"),url("/common/fonts/iconfont.ttf?v8") format("truetype"),url("/common/fonts/iconfont.svg?v8#iconfont") format("svg");font-weight:400;font-style:normal}
+</style>
+
+<link rel=preload href="/common/fonts/iconfont.woff2?v8" as=font type="font/woff2" crossorigin>
+<link rel=preconnect href="https://c.tadst.com" crossorigin>
+<link rel=preload href="/common/global_21.css" as=style>
+<link rel=preload href="/common/prebidtad.all.desk.cmp_68.js" as=script>
+<script src="https://securepubads.g.doubleclick.net/tag/js/gpt.js" async></script>
+<link rel=preload href="https://cmp.quantcast.com/choice/8QLn8vj66GL9W/www.timeanddate.com/choice.js" as=script>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://btloader.com/tag?o=5174239513018368&upapi=true" async></script>
+<script src="https://secure.quantserve.com/quant.js" async></script>
+<script>
+
+AdMgr=(function(){var isLog=0,isSent=0,slots=[],slotsR=[],techs={"pb":1,"aps":1},isResent=0,techsR={"pb":1,"aps":1},vals={};
+function logAds(){if(isLog){return}
+if(!window.jcb||!window.TADhba){setTimeout(logAds,1000);
+return}
+isLog=1;
+jcb("/scripts/logads.php?d=d"+"&"+TADhba(),function(){})}
+AD={s:[],o:0};
+googletag=window.googletag||{};
+googletag.cmd=googletag.cmd||[];
+function push(f){googletag.cmd.push(f)}
+function set(n,v){vals[n]=v}
+function get(n){return vals[n]}
+function setTargeting(n,v){if(v){push(function(){googletag.pubads().setTargeting(n,v)})}}
+function send(){if(isSent)return;
+isSent=true;
+setTargeting("pbv",window.pbv);
+push(function(){googletag.enableServices();
+googletag.pubads().refresh(AD.s)})}
+function resend(){if(isResent)return;
+isResent=true;
+let o=slotsR[0];
+o.S.setTargeting('rot',''+o.r);
+googletag.pubads().refresh([o.S])}
+function rendered(){setTimeout(logAds,1000)}
+function bidsIn(i){delete techs[i];
+if(Object.keys(techs).length==0){sendAdserverRequest()}}
+function bidsInR(i){delete techsR[i];
+if(Object.keys(techsR).length==0){resend()}}
+function addSlot(o){if (o.wm&&o.wm>window.innerWidth){o.wf.i=o.i;
+o=o.wf}
+o.r=0;
+o.a9=function(){return{slotID:o.i,slotName:o.n,sizes:o.s}}
+slots.push(o);
+if(o.css){let s=document.createElement('style');
+s.textContent=o.css;
+document.head.append(s)}}
+function refresh(o){if (o.r==0 && AdMgr.highBid){o.r++;
+slotsR=[o];
+setTimeout(resend,3000);
+pbjs.requestBids({timeout:2000,
+adUnitCodes:[o.n],
+bidsBackHandler:function(){try{pbjs.setTargetingForGPTAsync([o.n])}catch(e){}
+AdMgr.bidsInR('pb')}});
+TADaps.t=+new Date();apstag.fetchBids({slots:[o.a9()],timeout:2000,params:{adRefresh:'1'}},
+function(bids){AdMgr.push(function(){TADaps.b=[];
+TADaps.e=+new Date();
+apstag.setDisplayBids();
+AD.s.forEach(function(o){let c=0,z=o.getTargeting('amznbid');
+if(z&&z.length>0){c=z[0]}
+TADaps.b.push(c)});
+AdMgr.bidsInR('aps')})})}}
+function slot(i){return slots[i]}
+function a9slot(i){return slot(i).a9()}
+function gptSlot(i){let o=slot(i),j;
+if(o){o.S=googletag.defineSlot(o.n,o.s,o.i);
+if(o.t){for(j=0;j<o.t.length;j++){t=o.t[j];
+o.S.setTargeting(t[0],t[1])}}
+o.S.addService(googletag.pubads());
+AD.s.push(o.S);
+if (o.ro){let e=document.getElementById(o.i);
+if(e){addEventListener("impressionViewableRotate",function(){refresh(o)}, true)}}}}
+function dispSlot(i){let o=slot(i);
+push(function(){googletag.display(o.i)})}
+push(function(){googletag.pubads().disableInitialLoad();
+googletag.pubads().addEventListener('slotRenderEnded',rendered)});
+return {addSlot:addSlot,
+slot:slot,
+a9slot:a9slot,
+gptSlot:gptSlot,
+dispSlot:dispSlot,
+bidsIn:bidsIn,
+bidsInR:bidsInR,
+push:push,
+setTargeting:setTargeting,
+send:send,
+set:set,
+get:get,
+rendered:rendered}})();
+AdMgr.addSlot({n:'/1004254/tadcom_970',s:[[970,90],[728,90]],i:'div-gpt-com-970x90-head',wm:1440,wf:{n:'/1004254/com728',s:[[728,90]],i:'div-gpt-com-728x90-head'}});AdMgr.addSlot({n:'/1004254/com_160',s:[[160,600]],i:'div-gpt-com-160x600',ro:1});
+var pbjs=pbjs||{};pbjs.que=pbjs.que||[];
+pbjs.bidderSettings={standard:{storageAllowed:true}};
+!function(a9,a,p){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]}}("apstag",window,document);
+function cmpEvent(t,s){if(s){let e=t.eventStatus;
+if(e=='useractioncomplete'||e=='tcloaded'){if (!t.purpose.consents[1]){AdMgr.set('p1',1)}
+consentDataReady();
+/*
+if (t.purpose.consents[4]){consentDataReady()} else {sendAdserverRequest()}
+*/}}}
+function consentDataReady(){consentDataReady=function(){};
+pbjs.que.push(function(){if(AdMgr.get('p1')){pbjs.setConfig({'deviceAccess':false})}
+pbjs.addAdUnits([{code:AdMgr.slot(0).n,mediaTypes:{banner:{sizes:AdMgr.slot(0).s}},ortb2Imp:{ext:{gpid:'/1004254/tadcom_970#a3732'}},bids:[{bidder:'adyoulike',params:{placement:'9c844fd13a73a77ebcc7df183fe5ad77'}},{bidder:'amx',params:{tagId:'dGltZWFuZGRhdGUuY29t'}},{bidder:'appnexus',params:{placementId:28369066}},{bidder:'criteo',params:{zoneId:1702571}},{bidder:'ix',params:{siteId:'924834',size:[970,90]}},{bidder:'medianet',params:{cid:'8CU692DPW',crid:'635764783'}},{bidder:'onetag',params:{pubId:'7b5d361d6af8a75'}},{bidder:'openx',params:{delDomain:'timeanddate-d.openx.net',unit:'544099932'}},{bidder:'pubmatic',params:{adSlot:'4851008',publisherId:'157610'}},{bidder:'rubicon',params:{accountId:'16448',siteId:'127484',zoneId:'2677290'}},{bidder:'sovrn',params:{tagid:'422101'}},{bidder:'triplelift',params:{inventoryCode:'TimeAndDate_com_728x90'}}]},{code:AdMgr.slot(1).n,mediaTypes:{banner:{sizes:AdMgr.slot(1).s}},ortb2Imp:{ext:{gpid:'/1004254/com_160#a3732'}},bids:[{bidder:'adyoulike',params:{placement:'0263b7545881cbe50ff2c47400d3c44d'}},{bidder:'amx',params:{tagId:'dGltZWFuZGRhdGUuY29t'}},{bidder:'appnexus',params:{placementId:11439179}},{bidder:'criteo',params:{zoneId:1352026}},{bidder:'ix',params:{siteId:'281963',size:[160,600]}},{bidder:'medianet',params:{cid:'8CU692DPW',crid:'842241810'}},{bidder:'onetag',params:{pubId:'7b5d361d6af8a75'}},{bidder:'openx',params:{delDomain:'timeanddate-d.openx.net',unit:'544099933'}},{bidder:'pubmatic',params:{adSlot:'com_160@160x600',publisherId:'157610'}},{bidder:'rubicon',params:{accountId:'16448',siteId:'127484',zoneId:'601642'}},{bidder:'sovrn',params:{tagid:'422106'}},{bidder:'triplelift',params:{inventoryCode:'TimeAndDate_com_160x600'}}]}]);
+pbjs.requestBids({bidsBackHandler:function(){var c=0,a,b,i,h=0,r=pbjs.getBidResponses();
+AdMgr.push(function(){pbjs.setTargetingForGPTAsync()});
+for(a in r){if(r.hasOwnProperty(a)){b=r[a].bids;
+for(i=0;i<b.length;i++){if(b[i].cpm){c++;
+h=Math.max(h,b[i].cpm)}}}}
+AdMgr.setTargeting("tadbid",""+c);
+AdMgr.highBid=h;
+AdMgr.bidsIn('pb')}}
+)});
+TADaps.t=+new Date();apstag.fetchBids({slots:[AdMgr.a9slot(0),AdMgr.a9slot(1)],timeout:1456,params:{adRefresh:'0'}},
+function(bids){AdMgr.push(function(){TADaps.e=+new Date();
+apstag.setDisplayBids();
+AD.s.forEach(function(o){let c=0,z=o.getTargeting('amznbid');
+if(z&&z.length>0){c=z[0]}
+TADaps.b.push(c)});
+AdMgr.bidsIn('aps')})})}
+pbjs.que.push(function(){pbjs.setConfig({consentManagement:{gdpr:{cmpApi:'iab',timeout:8000,defaultGdprScope:true}},
+s2sConfig:{accountId:'1',
+bidders:["adyoulike","amx","onetag","openx","sovrn"],
+adapter:'prebidServer',
+enabled:true,
+endpoint:{p1Consent:'https://www.timeanddate.com/.pbs/v1/openrtb2/auction',
+noP1Consent:'https://www.timeanddate.com/.pbs/v1/openrtb2/auction'},
+syncEndpoint:{p1Consent:'https://www.timeanddate.com/.pbs/v1/cookie_sync',
+noP1Consent:'https://www.timeanddate.com/.pbs/v1/cookie_sync'},
+timeout:867},
+userSync:{userIds:[{name:"quantcastId"},{name:"criteo"},{name:"sharedId",params:{pixelUrl:"/scripts/sharedid.php"},storage:{name:"_sharedID",type:"cookie",expires:30}}],filterSettings:{iframe:{bidders:"*",filter:"include"}}},
+floors:{enforcement:{enforceJS:false},data:{schema:{fields:['size']},values:{}}},
+priceGranularity:{buckets:[{min:0,max:4,increment:0.01},{min:4,max:8,increment:0.02},{min:8,max:20,increment:0.05},{min:20,max:30,increment:0.10},{min:30,max:50,increment:0.25},{min:50,max:100,increment:1}]},
+enableSendAllBids:true,
+bidderTimeout:1156,
+pageUrl:"https:\/\/www.timeanddate.com\/sun\/bulgaria\/sofia?month=1&year=2023"});
+pbjs.setBidderConfig({"bidders":["rubicon"],"config":{"schain":{"validation":"strict","config":{"ver":"1.0","complete":1,"nodes":[{"asi":"netricsales.com","sid":"16448","hp":1}]}}}})});
+TADaps={b:[]};apstag.init({pubID:'12d5d789-63e3-47bc-ba31-070e97a96f2c',adServer:'googletag'});
+function sendAdserverRequest(){AdMgr.send()}
+setTimeout(function(){function cmpWait(sec){if(typeof(window.__tcfapi)=="function"){__tcfapi('ping',2,function(d){if(d&&d.displayStatus!="visible"){sendAdserverRequest()}})}else{if (sec>0) {setTimeout(function(){cmpWait(sec-1)},1000)} else {sendAdserverRequest()}}}
+cmpWait(5)},578);
+googletag.cmd.push(function(){AdMgr.gptSlot(0);AdMgr.gptSlot(1);googletag.pubads().setTargeting('ab','b').setTargeting('hr','11').setTargeting('ut','u').setTargeting('art','3732').enableSingleRequest()});
+window._qevents=window._qevents||[];
+window._qevents.push({qacct:"p-8QLn8vj66GL9W",uid:"__INSERT_EMAIL_HERE__"});
+</script>
+<script src="/common/prebidtad.all.desk.cmp_68.js" async></script>
+<link rel=alternate hreflang=de href="https://www.timeanddate.de/sonne/bulgarien/sofia?month=1&amp;year=2023" />
+<link rel=alternate hreflang=no href="https://www.timeanddate.no/astronomi/sol/bulgaria/sofia?month=1&amp;year=2023" /><link href="/site.webmanifest" rel=manifest><link href="/favicon-48x48.png" type="image/png" sizes=48x48 rel=icon><link rel=icon type="image/png" sizes=16x16 href="/favicon-16x16.png"><link sizes=32x32 type="image/png" rel=icon href="/favicon-32x32.png"><link type="text/css" rel=stylesheet href="/common/global_21.css"><script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Sun &amp; Moon","item":"https://www.timeanddate.com/astronomy/"},{"@type":"ListItem","position":2,"name":"Sunrise and sunset","item":"https://www.timeanddate.com/sun/"},{"@type":"ListItem","position":3,"name":"Bulgaria","item":"https://www.timeanddate.com/sun/bulgaria"},{"@type":"ListItem","position":4,"name":"Sofia"}]}
+</script><link href="/common/tpl_banner_18.css" type="text/css" rel=stylesheet><link href="/common/citypages_53.css" type="text/css" rel=stylesheet><link href="/common/citysm_28.css" rel=stylesheet type="text/css"><style>@charset "UTF-8";.astrotable tr{cursor:pointer}.astrotable .selected:hover>td,.astrotable .selected>*{padding-bottom:20px;vertical-align:middle}.astrotable .selected .sep,.astrotable .selected td,.astrotable .selected th,.astrotable tr.selected{border:0!important;border-top:2px solid #ccc!important}.astrotable .graph{border:0!important;border-bottom:2px solid #ccc!important}.astrotable .graph>td{background:#fff!important}.astrotable .graph .stats{text-align:center}.astrotable .buttons{left:-7px;position:absolute;top:40%}.astrotable .buttons>button{background:transparent;border:0;color:#ec1c66;font-size:25px;font-weight:700;height:30px;padding:0 2px;text-shadow:none}.astrotable .buttons>button:hover{background:transparent!important;color:#556bb5}.currentsun .cs-grid>div{border-top:1px dotted #ccc;border-top:1px dotted rgba(0,0,0,.2)}#cs-phase{font-style:italic}#cs-time{border-bottom:1px solid #f1f1f1;font-size:25px;padding-bottom:5px}.stats h4{margin-bottom:0;margin-top:5px}.currentsun{margin-left:5%;width:95%}.astrotable tbody th:after{speak:none;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#ec1c66;content:"";font-family:iconfont!important;font-style:normal;font-variant:normal;font-weight:inherit;line-height:1;text-transform:none}.astrotable tbody tr.selected th:after{content:""}.sungraph-container{padding-bottom:12px;padding-top:12px}@media only screen and (min-width:64.063em) and (max-width:90em){.sungraph-container{padding-top:24px}}@media only screen and (min-width:90.063em){.sungraph-container{padding-top:32px}}@media only screen and (min-width:64.063em) and (max-width:90em){.sungraph-container{padding-bottom:24px}}@media only screen and (min-width:90.063em){.sungraph-container{padding-bottom:32px}}.nocanvas .sungraph-container{display:none}.sungraph-container h2{margin-top:0}.Sungraph{margin-bottom:20px}.Sungraph__Graph-Container{background:#fff;padding-bottom:30px;padding-left:40px;position:relative}@media only screen and (max-width:37.438em){.Sungraph__Graph-Container{padding-left:10px}}.Sungraph__Graph{position:relative;width:100%}.Sungraph__Graph:before{content:"";display:block;padding-top:33.3%}.Sungraph__Canvas{bottom:0;height:100%;left:0;position:absolute;right:0;top:0;width:100%}.Sungraph__Month-Labels{bottom:0;height:20px;left:40px;line-height:20px;margin-bottom:10px;padding-right:40px;position:absolute;width:100%}.Sungraph__Month-Labels>span{color:#777;display:inline-block;font-size:12px;vertical-align:bottom;width:8.33333%}@media only screen and (max-width:37.438em){.Sungraph__Month-Labels{left:10px;padding-right:10px}}.Sungraph__Hour-Labels{border-bottom:30px solid transparent;height:100%;left:20px;position:absolute;top:0}.Sungraph__Hour-Labels>span{border-bottom:1px solid #e1e1e1;bottom:0;color:#777;display:block;font-size:12px;height:8.33333%;padding-right:3px;text-align:right;width:20px}.Sungraph__Hour-Labels>span:before{content:"";display:inline-block;height:100%;vertical-align:bottom}@media only screen and (max-width:37.438em){.Sungraph__Hour-Labels>span:nth-child(odd){visibility:hidden}.Sungraph__Hour-Labels{left:-10px}}.Sungraph__Highlighter{background:hsla(0,0%,100%,.2);border-left:1px solid hsla(0,0%,100%,.8);border-right:1px solid hsla(0,0%,100%,.8);box-sizing:content-box;height:100%;pointer-events:none;position:absolute;top:0;z-index:1}.Sungraph__LockedIcon{background:url(//c.tadst.com/gfx/n/icon/icon-lock-open.png);height:24px;left:-10px;opacity:.3;pointer-events:none;position:absolute;top:100%;width:24px}.Sungraph__LockedIcon--Locked{background:url(//c.tadst.com/gfx/n/icon/icon-lock.png)}.Sungraph-DetailedGraph{background:#fff;padding-top:15px;position:relative}@media only screen and (max-width:37.438em){.Sungraph-DetailedGraph{overflow:hidden}}.Sungraph-DetailedGraph__Date{background:#ec1c66;color:#fff;display:inline-block;font-size:16px;height:50px;padding:7px 5px;position:absolute;text-align:center;width:40px}.Sungraph-DetailedGraph__Graph{border-left:40px solid transparent;display:inline-block;height:50px;position:relative;width:100%}.Sungraph-DetailedGraph__Phase{height:100%}.Sungraph-DetailedGraph__Phase.hover{box-shadow:0 0 0 2px gold;z-index:10}.Sungraph-DetailedGraph__Labels{height:15px;left:40px;line-height:15px;padding-right:40px;position:absolute;top:0;width:100%}.Sungraph-DetailedGraph__Labels>span{border-left:1px solid #e1e1e1;color:#777;display:inline-block;font-size:12px;padding-left:2px;vertical-align:bottom;width:8.33333%}@media only screen and (max-width:37.438em){.Sungraph-DetailedGraph__Labels>span{font-size:10px}}.Sungraph-Legend{background:#fff;border-bottom:2px solid #eee;font-size:12px;padding:10px}.Sungraph-Legend__Items{display:flex;flex-wrap:wrap}.Sungraph-Legend__Item{display:flex;flex-direction:column;margin-bottom:12px;min-height:80px;padding-right:12px;width:33.33333%}@media only screen and (min-width:90.063em){.Sungraph-Legend__Item{width:16.66667%}}@media only screen and (max-width:37.438em){.Sungraph-Legend__Item{width:50%}}.Sungraph-Legend__Item.hover{box-shadow:0 0 0 2px gold;z-index:10}.Sungraph-Legend__Item-title{white-space:nowrap}.Sungraph-Legend__Color{background:#000;display:inline-block;height:16px;vertical-align:top;width:16px}.Sungraph-Legend__Color--Day{background:#b0dae8}.Sungraph-Legend__Color--Civil{background:#96bbc9}.Sungraph-Legend__Color--Nautical{background:#6f8f9a}.Sungraph-Legend__Color--Astro{background:#586a70}.Sungraph-Legend__Color--Night{background:#2f454d}@media only screen and (max-width:37.438em){.Sungraph-Legend__Color{height:10px;width:10px}}.Sungraph-Legend__Line{display:inline-block;margin-left:10px;vertical-align:middle;width:20px}.Sungraph-Legend__Line--Noon{border-bottom:2px solid red}.Sungraph-Legend__Line--Midnight{border-bottom:2px solid #e6b609}.Sungraph-Legend__Line--DST{border-bottom:2px solid #58ad74}.Sungraph-Legend__Type{display:inline-block;font-weight:700;margin-left:10px;vertical-align:middle}.Sungraph-Legend__Time{flex:1;margin-left:26px;margin-top:2px}@media only screen and (max-width:37.438em){.Sungraph-Legend__Time{flex:0}}.Sungraph-Legend__Time--Line{display:inline-block;margin-left:5px}.Sungraph-Legend__Time--Total{display:inline;margin-left:5px}@media only screen and (max-width:37.438em){.Sungraph-Legend__Time{margin-left:20px}}.Sungraph-Legend__Total{margin-left:26px;margin-top:3px}@media only screen and (max-width:37.438em){.Sungraph-Legend__Total{margin-left:20px}}@media only screen and (max-width:64em){.Sungraph-Legend{height:auto}}ul.btn-grp{display:block;list-style-type:none}ul.btn-grp a{display:inline-block;line-height:28px;padding:0 15px;text-decoration:none;vertical-align:top}ul.btn-grp a:hover{color:#fff}ul.btn-grp li{background:#fff;border:1px solid #556bb5;color:#556bb5;display:inline-block;margin:0 0 0 -1px;padding:0;vertical-align:top}ul.btn-grp li:hover{background:#415596;color:#fff}ul.btn-grp li.active{background:#556bb5}ul.btn-grp li.active a{color:#fff}ul.btn-grp li.active a:hover{cursor:pointer}ul.btn-grp li:first-child,ul.btn-grp li:first-child a{border-bottom-left-radius:5px;border-top-left-radius:5px}ul.btn-grp li:last-child,ul.btn-grp li:last-child a{border-bottom-right-radius:5px;border-top-right-radius:5px}ul.btn-grp.small{font-size:12px}ul.btn-grp.small a{line-height:24px;padding:0 10px}ul.btn-grp.large{font-size:18px}ul.btn-grp.large a{line-height:36px;padding:0 20px}ul.btn-grp--invert li{background:none;border-color:#fff}ul.btn-grp--invert li a{color:#fff}ul.btn-grp--invert li:hover{background:#ddd}ul.btn-grp--invert li:hover a{color:#556bb5}ul.btn-grp--invert li.active{background:#fff}ul.btn-grp--invert li.active a{color:#556bb5}@media only screen and (max-width: 1220px) {
+#as-monthsun .soft {
+display: none;
+}
+}
+.as-lm-period {float: left;height: 80px;}
+.as-daylight {background-color: #B1DAE7;}
+.as-civil-twilight { background-color: #63B4CF;}
+.as-nautical-twilight {background-color: #316577;}
+.as-astronomical-twilight {background-color: #18404E;}
+.as-night {background-color: #061013;}
+.currentsun { width: 95%;margin-left: 5%;}
+.below {color:#b9006e;}
+td.c{white-space:nowrap;}
+#as-monthsun thead th { border-top: 1px solid #ddd;}
+#cs-time { padding-bottom:5px; font-size: 25px; border-bottom: 1px solid #f1f1f1;}
+#cs-heading .deg, #cs-heading .car {
+width: 30px;
+display: inline-block;
+*vertical-align: auto;
+*zoom: 1;
+*display: inline;
+text-align: left;
+padding-left: 8px; 
+}
+.freetextselect {
+position:relative;
+width:200px;
+height:30px;
+border:0;
+padding:0;
+margin:0;
+/* Just this instance of it... */
+display:inline-block;
+vertical-align:bottom;
+}
+.freetextselect select {
+position:absolute;
+top:0px;
+left:0px;
+width:100%; 
+height:30px;
+line-height:22.5px;
+margin:0;
+padding:0;
+}
+.freetextselect input {
+position: absolute;
+top: 1px;
+left: 1px;
+border: none;
+width: 85%;
+/* width: 170px; IE7-8
+width: calc(100% - 20px);
+height: 28px;
+height: calc(100% - 2px);
+background: #fafafa;
+border-radius: 5px !important; */
+}
+.tb-headline {
+justify-content: space-between;
+margin-top: 0;
+align-items: center;
+}
+#moonrise {
+width:100%;
+margin-bottom: 12px;
+}
+.tb-options {
+display: flex;
+justify-content: space-between;
+width: 100%;
+flex-wrap: wrap;
+}
+.pager {
+margin: 0;
+}
+.prev {
+margin-left: 12px;
+}
+/* MOBILE HACK */
+@media only screen and (max-width: 870px){
+.btn-grp.fr {
+float:none;
+}
+}
+.link__wrapper {
+display: flex;
+justify-content: space-between;
+flex-wrap: wrap;
+}
+</style></head><body class="tpl-banner  astro"><div id=header__wrapper class=header__wrapper>
+<div id=header__inner class=header__inner>
+<div id=header class=banner>
+<div class=fixed>
+<div id=logo>
+<a href="/" rel=home title="Home page timeanddate.com"><div class="tad-logo" role="img" aria-label="timeanddate.com"></div></a>
+</div>
+</div>
+</div>
+<div id=ad-wrap><div id=ad-wrap2 class=fixed><div id=ad7><div id='div-gpt-com-970x90-head'><script>
+AdMgr.dispSlot(0);
+</script>
+</div></div></div></div>
+<nav id=nav class=site-nav-bar>
+<div class="site-nav-bar__inner fixed">
+<button class="site-nav-bar__button site-nav-bar__button--menu" id=site-nav-menu title="Menu" aria-label="Menu">
+<i class="i-font i-menu"></i>
+</button>
+<div class=site-nav-bar__logo>
+<a href="/" rel=home title="Home page timeanddate.com"><img src="//c.tadst.com/gfx/n/logo/logo-2021--horizontal-inverted-darkbg.svg" loading=lazy alt="timeanddate.com" width=140 height=19></a>
+</div>
+<button class=site-nav-bar__button onclick="modpop('/custom/shareframe.php', null, 'Share...')" title="Share" aria-label="Share">
+<i class="i-font i-share"></i>
+</button>
+<form action="/search/results.html" class=site-nav-bar__search-form>
+<input class=site-nav-bar__search placeholder="Search..." id=site-nav-search name=query title="Search" aria-label="Search"/>
+<button class="site-nav-bar__button site-nav-bar__button--search" id=site-nav-search-btn aria-label="Search">
+<div class=site-nav-bar__search-inner>
+<i class="i-font i-search"></i>
+</div>
+</button>
+</form>
+<div class=site-nav-bar__menu-wrap>
+<div class=site-nav__header>
+<button class=site-nav__login id=site-nav-login>Sign in</button>
+<button class=site-nav__close id=site-nav-close title="Close">
+<i class="i-font i-close"></i>
+</button>
+</div>
+<ul id=site-nav class=site-nav>
+<li class="site-nav__menu "><a href="/" class=site-nav__title>Home</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/">Home Page</a><li class=site-nav__item><a class=site-nav__link href="/newsletter/">Newsletter</a><li class=site-nav__item><a class=site-nav__link href="/information/">About Us</a><li class=site-nav__item><a class=site-nav__link href="/information/feedback.html">Contact Us</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/company/jobs/">Careers/Jobs</a><li class=site-nav__item><a class=site-nav__link href="/sitemap.html">Site Map</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/topics/">Our Articles</a><li class=site-nav__item><a class=site-nav__link href="/custom/">Account/Settings</a></ul></li><li class="site-nav__menu "><a href="/worldclock/" class=site-nav__title>World Clock</a><ul class=site-nav__sub-menu><li class=site-nav__item><a class=site-nav__link href="/worldclock/">Main World Clock</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/full.html">Extended World Clock</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/worldclock/personal.html">Personal World Clock</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/search.html">World Time Lookup </a><li class=site-nav__item><a class=site-nav__link href="/worldclock/timezone/utc">UTC Time</a></ul></li><li class="site-nav__menu "><a href="/time/" class=site-nav__title>Time Zones</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/time">Time Zones Home</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/converter.html">Time Zone Converter</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/meeting.html">International Meeting Planner</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/worldclock/fixedform.html">Event Time Announcer</a><li class=site-nav__item><a class=site-nav__link href="/time/map/">Time Zone Map</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/time/zones/">Time Zone Abbreviations</a><li class=site-nav__item><a class=site-nav__link href="/time/dst/">Daylight Saving Time</a><li class=site-nav__item><a class=site-nav__link href="/time/change/">Time Changes Worldwide</a><li class=site-nav__item><a class=site-nav__link href="/time/difference/">Time Difference</a><li class=site-nav__item><a class=site-nav__link href="/news/time/">Time Zone News</a></ul></li><li class="site-nav__menu "><a href="/calendar/" class=site-nav__title>Calendar</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/calendar/info.html">Calendars Home</a><li class=site-nav__item><a class=site-nav__link href="/calendar/">Calendar 2023</a><li class=site-nav__item><a class=site-nav__link href="/calendar/?year=2024">Calendar 2024</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/calendar/monthly.html">Monthly Calendar</a><li class=site-nav__item><a class=site-nav__link href="/calendar/create.html">Printable Calendar (PDF)</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/calendar/events/">Add Your Own Calendar Events</a><li class=site-nav__item><a class=site-nav__link href="/calendar/basic.html">Calendar Creator</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/calendar/custommenu.html">Advanced Calendar Creator</a><li class=site-nav__item><a class=site-nav__link href="/holidays/">Holidays Worldwide</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/on-this-day/">On This Day in History</a><li class=site-nav__item><a class=site-nav__link href="/calendar/months/">Months of the Year</a><li class=site-nav__item><a class=site-nav__link href="/calendar/days/">Days of the Week</a><li class=site-nav__item><a class=site-nav__link href="/date/leapyear.html">About Leap Years</a></ul></li><li class="site-nav__menu "><a href="/weather/" class=site-nav__title>Weather</a><ul class=site-nav__sub-menu><li class=site-nav__item><a class=site-nav__link href="/weather/">Worldwide</a><li class=site-nav__item><a class=site-nav__link href="/scripts/go.php">Local Weather</a><li class=site-nav__item><a class=site-nav__link href="/scripts/goweather.php?type=ext">2-Week Forecast</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/scripts/go.php?type=hourly">Hour-by-Hour</a><li class=site-nav__item><a class=site-nav__link href="/scripts/go.php?type=historic">Past Week</a><li class=site-nav__item><a class=site-nav__link href="/scripts/go.php?type=climate">Climate</a></ul></li><li class="site-nav__menu   active"><a href="/astronomy/" class=site-nav__title>Sun &amp; Moon</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/astronomy">Sun &amp; Moon Home</a><li class=site-nav__item><a class=site-nav__link href="/sun/">Sun Calculator</a><li class=site-nav__item><a class=site-nav__link href="/moon/">Moon Calculator</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/moon/phases/">Moon Phases</a><li class=site-nav__item><a class=site-nav__link href="/astronomy/night/">Night Sky</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/astronomy/meteor-shower/">Meteor Showers</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/sunearth.html">Day and Night Map</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/astronomy/moon/light.html">Moon Light World Map</a><li class=site-nav__item><a class=site-nav__link href="/eclipse/">Eclipses</a><li class=site-nav__item><a class=site-nav__link href="/eclipse/solar/2023-october-14">Oct 14 Annular Solar Eclipse</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/live/">Live Streams</a><li class=site-nav__item><a class=site-nav__link href="/calendar/seasons.html">Seasons</a><li class=site-nav__item><a class=site-nav__link href="/news/astronomy/">Astronomy News</a></ul></li><li class="site-nav__menu "><a href="/counters/" class=site-nav__title>Timers</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--mob"><a class=site-nav__link href="/counters">Timers Home</a><li class=site-nav__item><a class=site-nav__link href="/stopwatch/">Stopwatch</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/timer/">Timer</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/countdown/create">Countdown to Any Date</a><li class=site-nav__item><a class=site-nav__link href="/countdown/eclipse">Eclipse Countdown</a><li class=site-nav__item><a class=site-nav__link href="/countdown/fall">Fall Countdown</a><li class=site-nav__item><a class=site-nav__link href="/countdown/newyear">New Year Countdown</a></ul></li><li class="site-nav__menu "><a href="/date/" class=site-nav__title>Calculators</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/date/">Calculators Home</a><li class=site-nav__item><a class=site-nav__link href="/date/duration.html">Date to Date Calculator (duration)</a><li class=site-nav__item><a class=site-nav__link href="/date/workdays.html">Business Date to Date (exclude holidays)</a><li class=site-nav__item><a class=site-nav__link href="/date/dateadd.html">Date Calculator (add / subtract)</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/date/weekdayadd.html">Business Date (exclude holidays)</a><li class=site-nav__item><a class=site-nav__link href="/date/weekday.html">Weekday Calculator</a><li class=site-nav__item><a class=site-nav__link href="/date/weeknumber.html">Week Number Calculator</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/date/roman-calculator.html">Roman Numeral Converter</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/distance.html">Distance Calculator</a></ul></li><li class="site-nav__menu "><a href="/extra/" class=site-nav__title>Apps &amp; API</a><ul class=site-nav__sub-menu><li class=site-nav__item><a class=site-nav__link href="/ios/">iOS Apps</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/android/">Android Apps</a><li class=site-nav__item><a class=site-nav__link href="/clocks/free.html">Free Clock</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/clocks/freecountdown.html">Free Countdown</a><li class=site-nav__item><a class=site-nav__link href="/services/api/">API for Developers</a></ul></li><li class="site-nav__menu "><a href="/fun/" class=site-nav__title>Free Fun</a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/fun">Free &amp; Fun Home</a><li class=site-nav__item><a class=site-nav__link href="/clocks/free.html">Free Clock for Your Site</a><li class=site-nav__item><a class=site-nav__link href="/clocks/freecountdown.html">Free Countdown for Your Site</a><li class=site-nav__item><a class=site-nav__link href="/wordclock/">Word Clock</a><li class=site-nav__item><a class=site-nav__link href="/holidays/fun/">Fun Holidays</a><li class=site-nav__item><a class=site-nav__link href="/date/birthday.html">Alternative Age Calculator</a><li class=site-nav__item><a class=site-nav__link href="/date/pattern.html">Date Pattern Calculator</a><li class=site-nav__item><a class=site-nav__link href="/topics/fun">Fun Fact Articles</a></ul></li><li class="site-nav__menu site-nav__menu--my-account"><a href="/custom/" class=site-nav__title><span class='site-nav__mob-title'>My Account</span><i class='i-font i-account_circle site-nav__desktop-title'></i></a><ul class=site-nav__sub-menu><li class="site-nav__item site-nav__item--divider site-nav__item--mob"><a class=site-nav__link href="/custom">My Account</a><li class=site-nav__item><a id=popchi class=site-nav__link href="/custom/location.html">My Location</a><li class=site-nav__item><a class=site-nav__link href="/custom/site.html">My Units</a><li class=site-nav__item><a class=site-nav__link href="/calendar/events/">My Events</a><li class=site-nav__item><a class=site-nav__link href="/worldclock/personal.html">My World Clock</a><li class="site-nav__item site-nav__item--divider"><a class=site-nav__link href="/custom/privacy.html">My Privacy</a><li class=site-nav__item><a class=site-nav__link href="/services/">Paid Services</a><li class=site-nav__item><a id=poplogin class=site-nav__link href="/custom/login.html">Sign in</a><li class=site-nav__item><a id=popreg class=site-nav__link href="/custom/create.html">Register</a></ul></li>
+</ul> 
+</div>
+<div class=site-nav-bar__blur id=site-nav-blur></div>
+</div>
+</nav>
+</div>
+</div><div id=po1 class=po></div><div id=mpo></div><div id=anw class=alert-notice__wrap></div><div class=main-content-div><script>
+window.TAD=window.TAD||{};TAD.abtest='b';
+</script><header class="bn-header bn-header--astro"><div class="row socrow"><div id=bc class="fixed"><div id=bct><a target=_top href="/" class=fx>Home</a> &nbsp; <a target=_top href="/astronomy/" class=fx>Sun &amp; Moon</a> &nbsp; <a target=_top href="/sun/" class=fx>Sunrise and sunset</a> &nbsp; <a target=_top href="/sun/bulgaria" class=fx>Bulgaria</a> &nbsp; Sofia</div></div></div><div class="bn-header__wrap fixed"><div class="headline-banner "><section class=headline-banner__wrap><script type="text/javascript">
+window.placeid="bulgaria\/sofia";mtt=1;var series={"t":1687952257,"m":86400,"e":{},"o":{"sun":{"az":[{"e":5400,"p":[221.17,0.008003,-5.608e-07,2.44e-11]}
+,{"e":10800,"p":[223.6,0.006683,-3.131e-07,8.366e-12]}
+,{"e":21600,"p":[231.37,0.0045848,-1.214e-07,2.423e-12]}
+,{"e":32400,"p":[247.48,0.0024,-2.15e-08,8.835e-13]}
+,{"e":43200,"p":[390.58,-0.010729,3.8128e-07,-3.2485e-12]}
+,{"e":54000,"p":[-266.33,0.0091823,-6.389e-08,7e-14]}
+,{"e":64800,"p":[-544.41,0.0249371,-3.6185e-07,1.9509e-12]}
+,{"e":70200,"p":[-1355.49,0.0624401,-9.4015e-07,4.9248e-12]}
+,{"e":75600,"p":[-4937.86,0.2143772,-3.08853e-06,1.50525e-11]}
+,{"e":81000,"p":[-2999.64,0.1456404,-2.2867e-06,1.19873e-11]}
+,{"e":83700,"p":[56901.45,-2.0892679,2.550933e-05,-1.032528e-10]}
+,{"e":86400,"p":[7021.67,-0.3065663,4.27096e-06,-1.89092e-11]}
+]
+,"dist":[{"e":86400,"p":[1.520756e+08,0.05,0,0]}
+]
+,"alt":[{"e":5400,"p":[23.942,0.0020351,1.403e-07,-7.512e-12]}
+,{"e":10800,"p":[23.273,0.0024254,6.105e-08,-1.964e-12]}
+,{"e":16200,"p":[22.359,0.0026963,3.409e-08,-1.064e-12]}
+,{"e":21600,"p":[28.318,0.0016792,9.1854e-08,-2.1563e-12]}
+,{"e":22980,"p":[318.86,-0.038716,1.964861e-06,-3.11188e-11]}
+,{"e":23640,"p":[-242.421,0.033501,-1.13171e-06,1.31298e-11]}
+,{"e":24000,"p":[-7061.675,0.89843396,-3.7700705e-05,5.285112e-10]}
+,{"e":24300,"p":[-60576.555,7.57415192,-0.000315289439,4.3760778e-09]}
+,{"e":24480,"p":[163604.321,-19.9283967,0.000809343325,-1.0952849e-08]}
+,{"e":24660,"p":[-167640.451,20.331717,-0.000821629262,1.10694899e-08]}
+,{"e":25020,"p":[-1010.96,0.08611212,-1.675549e-06,0]}
+,{"e":25680,"p":[28.951,0.0018252,7.2493e-08,-1.6171e-12]}
+,{"e":27000,"p":[30.506,0.0016446,7.9485e-08,-1.7073e-12]}
+,{"e":32400,"p":[34.949,0.0011613,9.70142e-08,-1.9193e-12]}
+,{"e":37800,"p":[14.183,0.00302095,4.1507e-08,-1.3671e-12]}
+,{"e":43200,"p":[-88.665,0.0111416,-1.7237e-07,5.119e-13]}
+,{"e":48600,"p":[-192.05,0.0183926,-3.41971e-07,1.83483e-12]}
+,{"e":51300,"p":[-194.309,0.018562,-3.46081e-07,1.86738e-12]}
+,{"e":52680,"p":[-172.583,0.0172863,-3.21113e-07,1.70447e-12]}
+,{"e":53340,"p":[-159.115,0.016517,-3.06465e-07,1.6115e-12]}
+,{"e":53700,"p":[59649.418,-3.43764921,6.6144848e-05,-4.2424101e-10]}
+,{"e":53880,"p":[-2656840.04,147.9158996,-0.002744803869,1.697734973e-08]}
+,{"e":54000,"p":[2611292.086,-144.7436507,0.002674516289,-1.647317761e-08]}
+,{"e":54360,"p":[571569.787,-31.5586897,0.000580958539,-3.56515543e-09]}
+,{"e":54720,"p":[63710.294,-3.49643721,6.4089542e-05,-3.9180935e-10]}
+,{"e":55380,"p":[-1121.445,0.05849848,-8.868735e-07,4.06711e-12]}
+,{"e":56700,"p":[-5434.354,0.29426274,-5.182506e-06,3.015377e-11]}
+,{"e":59400,"p":[-692.775,0.04319241,-7.50903e-07,4.07907e-12]}
+,{"e":64800,"p":[-87.933,0.0124714,-2.30733e-07,1.1429e-12]}
+,{"e":70200,"p":[-134.837,0.01454689,-2.61286e-07,1.2926e-12]}
+,{"e":75600,"p":[-973.901,0.05004886,-7.620691e-07,3.64755e-12]}
+,{"e":81000,"p":[-5375.389,0.22386175,-3.050343e-06,1.369089e-11]}
+,{"e":83700,"p":[2054.22,-0.049255,2.96121e-07,2.371e-14]}
+,{"e":86400,"p":[11051.643,-0.37304886,4.180366e-06,-1.550845e-11]}
+]
+}}};unit_dist=1e-06;unit_dist_txt="million km";unit_dist_dig=3;ASTDATA={"n":"bulgaria\/sofia","year":2023,"month":1,"obj":"sundaily"};
+</script>
+<img src="//c.tadst.com/gfx/n/fl/48/bg.png" class=headline-banner__flag alt="Flag for Bulgaria" title="Flag for Bulgaria" width=48 height=32><div class=headline-banner__content><h1 class=headline-banner__title>Sofia, Bulgaria —  Sunrise, Sunset, and Daylength, януари 2023</h1></div></section><section class=headline-banner__extra><form action="/sun/" class="bn-header__searchbox picker-city noprint"><input type=search autocomplete=off class=picker-city__input placeholder="Search for city or place…" onfocus="ifc(this,'ci',1,17,{&quot;pre&quot;:&quot;/sun/&quot;})" name=query /><button type=submit class=picker-city__button title=Search><i class="i-font i-search"></i></button></form></section></div></div><section class=bn-header__extra><nav id=bk-nav><div class=fixed><div class=bk-nav__inner><div class=nav-2__wrap><ul class=nav-2><li class=nav-2__item><a href="/worldclock/bulgaria/sofia" title="General/main info about Sofia">Time/General</a></li><li class=nav-2__item><a href="/weather/bulgaria/sofia" title="Current weather and forecast for Sofia">Weather  <i class=i-dropdown></i></a><ul class=nav-2__submenu><li class=nav-2__submenu-item><a href="/weather/bulgaria/sofia" title="Shows a weather overview">Weather Today/Tomorrow </a></li><li class=nav-2__submenu-item><a href="/weather/bulgaria/sofia/hourly" title="Hour-by-hour weather for the coming week">Hour-by-Hour Forecast </a></li><li class=nav-2__submenu-item><a href="/weather/bulgaria/sofia/ext" title="Extended forecast for the next two weeks">14 Day Forecast </a></li><li class=nav-2__divider></li><li class=nav-2__submenu-item><a href="/weather/bulgaria/sofia/historic" title="Past weather for yesterday, the last 2 weeks, or any selected month available">Yesterday/Past Weather</a></li><li class=nav-2__submenu-item><a href="/weather/bulgaria/sofia/climate" title="Historic weather and climate information">Climate (Averages)</a></li></ul></li><li class=nav-2__item><a href="/time/zone/bulgaria/sofia" title="Past and future time change dates for Sofia">Time Zone </a></li><li class=nav-2__item><a href="/time/change/bulgaria/sofia" title="Daylight saving time changeover dates and times for Sofia">DST Changes</a></li><li class="active nav-2__item"><a href="/astronomy/bulgaria/sofia" title="Calculate rising and setting times for the Sun and Moon in Sofia">Sun &amp; Moon <i class=i-dropdown></i></a><ul class=nav-2__submenu><li class=nav-2__submenu-item><a href="/astronomy/bulgaria/sofia">Sun & Moon Today </a></li><li class="active nav-2__submenu-item"><a href="/sun/bulgaria/sofia" class=active>Sunrise & Sunset </a></li><li class=nav-2__divider></li><li class=nav-2__submenu-item><a href="/moon/bulgaria/sofia">Moonrise & Moonset </a></li><li class=nav-2__submenu-item><a href="/moon/phases/bulgaria/sofia">Moon Phases </a></li><li class=nav-2__divider></li><li class=nav-2__submenu-item><a href="/eclipse/in/bulgaria/sofia">Eclipses </a></li><li class=nav-2__submenu-item><a href="/astronomy/night/bulgaria/sofia">Night Sky </a></li></ul></li></ul></div></div></div></nav><script type="text/javascript">
+TAD=window.TAD||{};TAD.lon=23.322;TAD.lat=42.698;
+</script></section></header><main class="tpl-banner__main layout-grid layout-grid--sky tpl-banner__main--astro"><section class="layout-grid__hero tpl-banner__hero"><nav class=nav-3><div class=fixed><a href="/astronomy/bulgaria/sofia">Sun & Moon Today </a><a href="/sun/bulgaria/sofia" class=active>Sunrise & Sunset </a><a href="/moon/bulgaria/sofia">Moonrise & Moonset </a><a href="/moon/phases/bulgaria/sofia">Moon Phases </a><a href="/eclipse/in/bulgaria/sofia">Eclipses </a><a href="/astronomy/night/bulgaria/sofia">Night Sky </a></div></nav></section><article class="layout-grid__main tpl-banner__content"><section class=bk-focus><div id=qlook class=bk-focus__qlook><img src="//c.tadst.com/gfx/n/i/sun.png" width=120 height=120><div class="h1 dn-mob">Daylight</div><p class=dn-mob>05.50 ч. &#8211; 21.08 ч.<br>15 hours, 18 minutes</p></div><div class=bk-focus__info><table class="table table--left table--inner-borders-rows"><tbody><tr><th>Current Time: </th><td id=smct>28 юни 2023 г., 14:37:37 ч.</td></tr><tr><th>Sun Direction: </th><td id=sunaz><span class="comp sa20" title="Map direction Southwest">↑</span> 221° Southwest</td></tr><tr><th>Sun Altitude: </th><td id=sunalt>66,1°</td></tr><tr><th>Sun Distance: </th><td id=sundist>152,076 million km</td></tr><tr><th>Next Equinox: </th><td><a href="/calendar/seasons.html?n=238" title="Click to see detailed season information for Sofia">23 сеп 2023 г. 09.50 ч. (Autumnal)</a></td></tr><tr><th>Sunrise Today: </th><td>05.50 ч.<span class="comp sa6" title="Map direction Northeast">↑</span> 57° Northeast</td></tr><tr><th>Sunset Today: </th><td>21.08 ч.<span class="comp sa26" title="Map direction Northwest">↑</span> 303° Northwest</td></tr></tbody></table></div><div id=bk-map class=bk-focus__map><a href="/time/map/#!cities=238"><img title="Map showing the location of Sofia. Click map to see the location on our worldwide Time Zone Map." src="//c.tadst.com/gfx/citymap/bg-10.png?12" alt="Location of Sofia" width=320 height=160><img id=map-mrk src="//c.tadst.com/gfx/n/icon/icon-map-pin.png" class=fadeInDown style="left:192px;top:32px;position:absolute" alt=Location title="Location of Sofia" width=18 height=34></a></div></section><div class=fixed></div>
+
+
+
+
+
+
+
+
+
+<section class=sungraph-container><ul class="btn-grp fr"><li class=active data-tad-control="Sungraph.UI" data-tad-options="{type:'setType',value:'phases'}"><a href="#">Rise/Set Times</a></li><li data-tad-control="Sungraph.UI" data-tad-options="{type:'setType',value:'daylength'}"><a href="#">Day/Night Length</a></li></ul><h2>2023 Sun Graph for Sofia</h2><div class=Sungraph aria-label="Visual graph of daylight/night phases throughout the year"><div class=Sungraph__Graph-Container aria-hidden=true><div data-tad-control="Sungraph.Graph" class=Sungraph__Graph title="Click the graph to lock it on any date. Click again to unlock."><div data-tad-control="Sungraph.UI" data-tad-options="{type:'highlighter'}" class=Sungraph__Highlighter><div data-tad-control="Sungraph.UI" data-tad-options="{type:'lockedStatus'}" class=Sungraph__LockedIcon></div></div></div><div class=Sungraph__Month-Labels><span>Jan</span><span>Feb</span><span>Mar</span><span>Apr</span><span>May</span><span>Jun</span><span>Jul</span><span>Aug</span><span>Sep</span><span>Oct</span><span>Nov</span><span>Dec</span></div><div class=Sungraph__Hour-Labels><span>22</span><span>20</span><span>18</span><span>16</span><span>14</span><span>12</span><span>10</span><span>08</span><span>06</span><span>04</span><span>02</span><span>00</span></div></div><div class=Sungraph-DetailedGraph aria-hidden=true><div data-tad-control="Sungraph.Date" class=Sungraph-DetailedGraph__Date></div><div data-tad-control="Sungraph.DetailedGraph" class=Sungraph-DetailedGraph__Graph></div><div class=Sungraph-DetailedGraph__Labels><span>00</span><span>02</span><span>04</span><span>06</span><span>08</span><span>10</span><span>12</span><span>14</span><span>16</span><span>18</span><span>20</span><span>22</span></div></div><div class="Sungraph-Legend row" aria-hidden=true><div class=Sungraph-Legend__Items><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class="Sungraph-Legend__Color Sungraph-Legend__Color--Night"></div><div class=Sungraph-Legend__Type>Night:</div></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:5}" class=Sungraph-Legend__Time></div><div class=Sungraph-Legend__Total><strong>Total:</strong><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:5, showDuration: true}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Total"></div></div></div><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class="Sungraph-Legend__Color Sungraph-Legend__Color--Astro"></div><div class=Sungraph-Legend__Type>Astronomical Twilight:</div></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:4}" class=Sungraph-Legend__Time></div><div class=Sungraph-Legend__Total><strong>Total:</strong><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:4, showDuration: true}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Total"></div></div></div><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class="Sungraph-Legend__Color Sungraph-Legend__Color--Nautical"></div><div class=Sungraph-Legend__Type>Nautical Twilight:</div></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:3}" class=Sungraph-Legend__Time></div><div class=Sungraph-Legend__Total><strong>Total:</strong><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:3, showDuration: true}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Total"></div></div></div><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class="Sungraph-Legend__Color Sungraph-Legend__Color--Civil"></div><div class=Sungraph-Legend__Type>Civil Twilight:</div></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:2}" class=Sungraph-Legend__Time></div><div class=Sungraph-Legend__Total><strong>Total:</strong><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:2, showDuration: true}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Total"></div></div></div><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class="Sungraph-Legend__Color Sungraph-Legend__Color--Day"></div><div class=Sungraph-Legend__Type>Daylight:</div></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:1}" class=Sungraph-Legend__Time></div><div class=Sungraph-Legend__Total><strong>Total:</strong><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:1, showDuration: true}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Total"></div></div></div><div class=Sungraph-Legend__Item><div class=Sungraph-Legend__Item-title><div class=Sungraph-Legend__Type>Solar Noon/Midnight:</div></div><div><div class="Sungraph-Legend__Line Sungraph-Legend__Line--Noon"></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:-1}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Line"></div></div><div><div class="Sungraph-Legend__Line Sungraph-Legend__Line--Midnight"></div><div data-tad-control="Sungraph.PhaseTimes" data-tad-options="{type:-2}" class="Sungraph-Legend__Time Sungraph-Legend__Time--Line"></div></div></div></div></div></div></section><section class=fixed><div class="row pd pdbflexi"><h2>Януари 2023 &mdash; Sun in Sofia</h2><div class=tb-options><ul class=pager><li class=prev><a href="/sun/bulgaria/sofia?month=12&amp;year=2022" REL=nofollow>декември</a></li><li class=current><a href="/sun/bulgaria/sofia?month=1&amp;year=2023" REL=nofollow>януари</a></li><li class=next><a href="/sun/bulgaria/sofia?month=2&amp;year=2023" REL=nofollow>февруари</a></li></ul><form class=tb-select><label for=month class=inline>Month: </label><select name=month><option value=1 selected>януари</option><option value=2>февруари</option><option value=3>март</option><option value=4>април</option><option value=5>май</option><option value=6>юни</option><option value=7>юли</option><option value=8>август</option><option value=9>септември</option><option value=10>октомври</option><option value=11>ноември</option><option value=12>декември</option></select><label for=year class="inline mgl10">Year: </label><div class=freetextselect><select><option value=2003>2003</option><option value=2004>2004</option><option value=2005>2005</option><option value=2006>2006</option><option value=2007>2007</option><option value=2008>2008</option><option value=2009>2009</option><option value=2010>2010</option><option value=2011>2011</option><option value=2012>2012</option><option value=2013>2013</option><option value=2014>2014</option><option value=2015>2015</option><option value=2016>2016</option><option value=2017>2017</option><option value=2018>2018</option><option value=2019>2019</option><option value=2020>2020</option><option value=2021>2021</option><option value=2022>2022</option><option value=2023 selected>2023</option><option value=2024>2024</option><option value=2025>2025</option><option value=2026>2026</option><option value=2027>2027</option><option value=2028>2028</option><option value=2029>2029</option><option value=2030>2030</option><option value=2031>2031</option><option value=2032>2032</option><option value=2033>2033</option><option value=2034>2034</option><option value=2035>2035</option><option value=2036>2036</option><option value=2037>2037</option><option value=2038>2038</option><option value=2039>2039</option><option value=2040>2040</option><option value=2041>2041</option><option value=2042>2042</option><option value=2043>2043</option></select><input type=text name=year placeholder="Enter or Select Year"></div><input type=submit value=Go class=mgl10></form></div><div class=tb-scroll><span>Scroll right to see more</span><table id=as-monthsun class="zebra tb-sm fw tb-hover va-m small"><thead><tr class=bg-wt><th>2023</th><th id="h_a_3_0" colspan=2 class="c">Sunrise/Sunset</th><th id="h_a_5_0" colspan=2 class="c sep-l">Daylength</th><th id="h_a_7_0" colspan=2 class="sep-l c">Astronomical Twilight</th><th id="h_a_9_0" colspan=2 class="c">Nautical Twilight</th><th id="h_a_11_0" colspan=2 class="c">Civil Twilight</th><th id="h_a_13_0" colspan=2 class="c sep-l">Solar Noon</th></tr><tr><th rowspan=2>яну</th><th class="c" rowspan=2>Sunrise</th><th class="c" rowspan=2>Sunset</th><th class="c sep-l tr" rowspan=2>Length</th><th class="c tr" rowspan=2>Diff.</th><th class="sep-l c" rowspan=2>Start</th><th class="c" rowspan=2>End</th><th class="c" rowspan=2>Start</th><th class="c" rowspan=2>End</th><th class="c" rowspan=2>Start</th><th class="c" rowspan=2>End</th><th class="c sep-l" rowspan=2>Time</th><th class="c tr" rowspan=2><span title="Million kilometers">Mil. km</span></th></tr><tr></tr></thead><tbody><tr data-day=1 title="Click to expand for more details"><th>1</th><td class="c sep">07.57 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.03 ч. <span class="comp sa22" title="West-southwest (239&deg;)">↑</span> <span class="soft small">(239&deg;)</span></td><td class="c tr sep-l">9:06:21</td><td class="c tr sep">+0:43</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.45 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.10 ч.</td><td class="c sep">07.24 ч.</td><td class="sep c">17.35 ч.</td><td class="c sep-l">12.30 ч. <span class="small soft">(24,3°)</span></td><td class="tr sep">147,104</td></tr><tr data-day=2 title="Click to expand for more details"><th>2</th><td class="c sep">07.57 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.04 ч. <span class="comp sa22" title="West-southwest (239&deg;)">↑</span> <span class="soft small">(239&deg;)</span></td><td class="c tr sep-l">9:07:08</td><td class="c tr sep">+0:47</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.45 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.11 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.36 ч.</td><td class="c sep-l">12.30 ч. <span class="small soft">(24,4°)</span></td><td class="tr sep">147,101</td></tr><tr data-day=3 title="Click to expand for more details"><th>3</th><td class="c sep">07.57 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.05 ч. <span class="comp sa22" title="West-southwest (239&deg;)">↑</span> <span class="soft small">(239&deg;)</span></td><td class="c tr sep-l">9:08:00</td><td class="c tr sep">+0:51</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.46 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.12 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.37 ч.</td><td class="c sep-l">12.31 ч. <span class="small soft">(24,5°)</span></td><td class="tr sep">147,100</td></tr><tr data-day=4 title="Click to expand for more details"><th>4</th><td class="c sep">07.57 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.06 ч. <span class="comp sa22" title="West-southwest (239&deg;)">↑</span> <span class="soft small">(239&deg;)</span></td><td class="c tr sep-l">9:08:56</td><td class="c tr sep">+0:55</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.47 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.13 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.37 ч.</td><td class="c sep-l">12.31 ч. <span class="small soft">(24,6°)</span></td><td class="tr sep">147,099</td></tr><tr data-day=5 title="Click to expand for more details"><th>5</th><td class="c sep">07.57 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.07 ч. <span class="comp sa22" title="West-southwest (239&deg;)">↑</span> <span class="soft small">(239&deg;)</span></td><td class="c tr sep-l">9:09:56</td><td class="c tr sep">+0:59</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.48 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.14 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.38 ч.</td><td class="c sep-l">12.31 ч. <span class="small soft">(24,7°)</span></td><td class="tr sep">147,099</td></tr><tr data-day=6 title="Click to expand for more details"><th>6</th><td class="c sep">07.56 ч. <span class="comp sa10" title="East-southeast (121&deg;)">↑</span> <span class="soft small">(121&deg;)</span></td><td class="sep c">17.07 ч. <span class="comp sa22" title="West-southwest (240&deg;)">↑</span> <span class="soft small">(240&deg;)</span></td><td class="c tr sep-l">9:11:00</td><td class="c tr sep">+1:03</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.49 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.15 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.39 ч.</td><td class="c sep-l">12.32 ч. <span class="small soft">(24,8°)</span></td><td class="tr sep">147,100</td></tr><tr data-day=7 title="Click to expand for more details"><th>7</th><td class="c sep">07.56 ч. <span class="comp sa10" title="East-southeast (120&deg;)">↑</span> <span class="soft small">(120&deg;)</span></td><td class="sep c">17.09 ч. <span class="comp sa22" title="West-southwest (240&deg;)">↑</span> <span class="soft small">(240&deg;)</span></td><td class="c tr sep-l">9:12:08</td><td class="c tr sep">+1:07</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.50 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.16 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.40 ч.</td><td class="c sep-l">12.32 ч. <span class="small soft">(25,0°)</span></td><td class="tr sep">147,103</td></tr><tr data-day=8 title="Click to expand for more details"><th>8</th><td class="c sep">07.56 ч. <span class="comp sa10" title="East-southeast (120&deg;)">↑</span> <span class="soft small">(120&deg;)</span></td><td class="sep c">17.10 ч. <span class="comp sa22" title="West-southwest (240&deg;)">↑</span> <span class="soft small">(240&deg;)</span></td><td class="c tr sep-l">9:13:19</td><td class="c tr sep">+1:11</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.51 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.16 ч.</td><td class="c sep">07.25 ч.</td><td class="sep c">17.41 ч.</td><td class="c sep-l">12.33 ч. <span class="small soft">(25,1°)</span></td><td class="tr sep">147,106</td></tr><tr data-day=9 title="Click to expand for more details"><th>9</th><td class="c sep">07.56 ч. <span class="comp sa10" title="East-southeast (120&deg;)">↑</span> <span class="soft small">(120&deg;)</span></td><td class="sep c">17.11 ч. <span class="comp sa22" title="West-southwest (240&deg;)">↑</span> <span class="soft small">(240&deg;)</span></td><td class="c tr sep-l">9:14:35</td><td class="c tr sep">+1:15</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.52 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.17 ч.</td><td class="c sep">07.24 ч.</td><td class="sep c">17.42 ч.</td><td class="c sep-l">12.33 ч. <span class="small soft">(25,2°)</span></td><td class="tr sep">147,110</td></tr><tr data-day=10 title="Click to expand for more details"><th>10</th><td class="c sep">07.56 ч. <span class="comp sa10" title="East-southeast (120&deg;)">↑</span> <span class="soft small">(120&deg;)</span></td><td class="sep c">17.12 ч. <span class="comp sa22" title="West-southwest (240&deg;)">↑</span> <span class="soft small">(240&deg;)</span></td><td class="c tr sep-l">9:15:54</td><td class="c tr sep">+1:19</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.52 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.18 ч.</td><td class="c sep">07.24 ч.</td><td class="sep c">17.43 ч.</td><td class="c sep-l">12.34 ч. <span class="small soft">(25,4°)</span></td><td class="tr sep">147,115</td></tr><tr data-day=11 title="Click to expand for more details"><th>11</th><td class="c sep">07.55 ч. <span class="comp sa10" title="East-southeast (120&deg;)">↑</span> <span class="soft small">(120&deg;)</span></td><td class="sep c">17.13 ч. <span class="comp sa22" title="West-southwest (241&deg;)">↑</span> <span class="soft small">(241&deg;)</span></td><td class="c tr sep-l">9:17:17</td><td class="c tr sep">+1:22</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.53 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.19 ч.</td><td class="c sep">07.24 ч.</td><td class="sep c">17.44 ч.</td><td class="c sep-l">12.34 ч. <span class="small soft">(25,5°)</span></td><td class="tr sep">147,120</td></tr><tr data-day=12 title="Click to expand for more details"><th>12</th><td class="c sep">07.55 ч. <span class="comp sa10" title="East-southeast (119&deg;)">↑</span> <span class="soft small">(119&deg;)</span></td><td class="sep c">17.14 ч. <span class="comp sa22" title="West-southwest (241&deg;)">↑</span> <span class="soft small">(241&deg;)</span></td><td class="c tr sep-l">9:18:43</td><td class="c tr sep">+1:26</td><td class="c sep-l">06.15 ч.</td><td class="sep c">18.54 ч.</td><td class="c sep">06.49 ч.</td><td class="sep c">18.20 ч.</td><td class="c sep">07.24 ч.</td><td class="sep c">17.45 ч.</td><td class="c sep-l">12.34 ч. <span class="small soft">(25,7°)</span></td><td class="tr sep">147,127</td></tr><tr data-day=13 title="Click to expand for more details"><th>13</th><td class="c sep">07.55 ч. <span class="comp sa10" title="East-southeast (119&deg;)">↑</span> <span class="soft small">(119&deg;)</span></td><td class="sep c">17.15 ч. <span class="comp sa22" title="West-southwest (241&deg;)">↑</span> <span class="soft small">(241&deg;)</span></td><td class="c tr sep-l">9:20:13</td><td class="c tr sep">+1:29</td><td class="c sep-l">06.14 ч.</td><td class="sep c">18.55 ч.</td><td class="c sep">06.48 ч.</td><td class="sep c">18.21 ч.</td><td class="c sep">07.23 ч.</td><td class="sep c">17.46 ч.</td><td class="c sep-l">12.35 ч. <span class="small soft">(25,8°)</span></td><td class="tr sep">147,135</td></tr><tr data-day=14 title="Click to expand for more details"><th>14</th><td class="c sep">07.54 ч. <span class="comp sa10" title="East-southeast (119&deg;)">↑</span> <span class="soft small">(119&deg;)</span></td><td class="sep c">17.16 ч. <span class="comp sa22" title="West-southwest (241&deg;)">↑</span> <span class="soft small">(241&deg;)</span></td><td class="c tr sep-l">9:21:46</td><td class="c tr sep">+1:33</td><td class="c sep-l">06.14 ч.</td><td class="sep c">18.56 ч.</td><td class="c sep">06.48 ч.</td><td class="sep c">18.22 ч.</td><td class="c sep">07.23 ч.</td><td class="sep c">17.47 ч.</td><td class="c sep-l">12.35 ч. <span class="small soft">(26,0°)</span></td><td class="tr sep">147,143</td></tr><tr data-day=15 title="Click to expand for more details"><th>15</th><td class="c sep">07.54 ч. <span class="comp sa10" title="East-southeast (119&deg;)">↑</span> <span class="soft small">(119&deg;)</span></td><td class="sep c">17.17 ч. <span class="comp sa22" title="West-southwest (242&deg;)">↑</span> <span class="soft small">(242&deg;)</span></td><td class="c tr sep-l">9:23:22</td><td class="c tr sep">+1:36</td><td class="c sep-l">06.14 ч.</td><td class="sep c">18.57 ч.</td><td class="c sep">06.48 ч.</td><td class="sep c">18.23 ч.</td><td class="c sep">07.23 ч.</td><td class="sep c">17.49 ч.</td><td class="c sep-l">12.35 ч. <span class="small soft">(26,2°)</span></td><td class="tr sep">147,152</td></tr><tr data-day=16 title="Click to expand for more details"><th>16</th><td class="c sep">07.53 ч. <span class="comp sa10" title="East-southeast (118&deg;)">↑</span> <span class="soft small">(118&deg;)</span></td><td class="sep c">17.19 ч. <span class="comp sa22" title="West-southwest (242&deg;)">↑</span> <span class="soft small">(242&deg;)</span></td><td class="c tr sep-l">9:25:02</td><td class="c tr sep">+1:39</td><td class="c sep-l">06.14 ч.</td><td class="sep c">18.58 ч.</td><td class="c sep">06.47 ч.</td><td class="sep c">18.25 ч.</td><td class="c sep">07.22 ч.</td><td class="sep c">17.50 ч.</td><td class="c sep-l">12.36 ч. <span class="small soft">(26,4°)</span></td><td class="tr sep">147,162</td></tr><tr data-day=17 title="Click to expand for more details"><th>17</th><td class="c sep">07.53 ч. <span class="comp sa10" title="East-southeast (118&deg;)">↑</span> <span class="soft small">(118&deg;)</span></td><td class="sep c">17.20 ч. <span class="comp sa22" title="West-southwest (242&deg;)">↑</span> <span class="soft small">(242&deg;)</span></td><td class="c tr sep-l">9:26:45</td><td class="c tr sep">+1:42</td><td class="c sep-l">06.13 ч.</td><td class="sep c">18.59 ч.</td><td class="c sep">06.47 ч.</td><td class="sep c">18.26 ч.</td><td class="c sep">07.22 ч.</td><td class="sep c">17.51 ч.</td><td class="c sep-l">12.36 ч. <span class="small soft">(26,6°)</span></td><td class="tr sep">147,173</td></tr><tr data-day=18 title="Click to expand for more details"><th>18</th><td class="c sep">07.52 ч. <span class="comp sa10" title="East-southeast (118&deg;)">↑</span> <span class="soft small">(118&deg;)</span></td><td class="sep c">17.21 ч. <span class="comp sa22" title="West-southwest (242&deg;)">↑</span> <span class="soft small">(242&deg;)</span></td><td class="c tr sep-l">9:28:31</td><td class="c tr sep">+1:46</td><td class="c sep-l">06.13 ч.</td><td class="sep c">19.00 ч.</td><td class="c sep">06.47 ч.</td><td class="sep c">18.27 ч.</td><td class="c sep">07.21 ч.</td><td class="sep c">17.52 ч.</td><td class="c sep-l">12.36 ч. <span class="small soft">(26,8°)</span></td><td class="tr sep">147,184</td></tr><tr data-day=19 title="Click to expand for more details"><th>19</th><td class="c sep">07.52 ч. <span class="comp sa10" title="East-southeast (117&deg;)">↑</span> <span class="soft small">(117&deg;)</span></td><td class="sep c">17.22 ч. <span class="comp sa22" title="West-southwest (243&deg;)">↑</span> <span class="soft small">(243&deg;)</span></td><td class="c tr sep-l">9:30:20</td><td class="c tr sep">+1:49</td><td class="c sep-l">06.13 ч.</td><td class="sep c">19.01 ч.</td><td class="c sep">06.46 ч.</td><td class="sep c">18.28 ч.</td><td class="c sep">07.21 ч.</td><td class="sep c">17.53 ч.</td><td class="c sep-l">12.37 ч. <span class="small soft">(27,0°)</span></td><td class="tr sep">147,196</td></tr><tr data-day=20 title="Click to expand for more details"><th>20</th><td class="c sep">07.51 ч. <span class="comp sa10" title="East-southeast (117&deg;)">↑</span> <span class="soft small">(117&deg;)</span></td><td class="sep c">17.23 ч. <span class="comp sa22" title="West-southwest (243&deg;)">↑</span> <span class="soft small">(243&deg;)</span></td><td class="c tr sep-l">9:32:12</td><td class="c tr sep">+1:52</td><td class="c sep-l">06.12 ч.</td><td class="sep c">19.03 ч.</td><td class="c sep">06.46 ч.</td><td class="sep c">18.29 ч.</td><td class="c sep">07.20 ч.</td><td class="sep c">17.54 ч.</td><td class="c sep-l">12.37 ч. <span class="small soft">(27,2°)</span></td><td class="tr sep">147,208</td></tr><tr data-day=21 title="Click to expand for more details"><th>21</th><td class="c sep">07.51 ч. <span class="comp sa10" title="East-southeast (117&deg;)">↑</span> <span class="soft small">(117&deg;)</span></td><td class="sep c">17.25 ч. <span class="comp sa22" title="West-southwest (243&deg;)">↑</span> <span class="soft small">(243&deg;)</span></td><td class="c tr sep-l">9:34:07</td><td class="c tr sep">+1:54</td><td class="c sep-l">06.12 ч.</td><td class="sep c">19.04 ч.</td><td class="c sep">06.45 ч.</td><td class="sep c">18.30 ч.</td><td class="c sep">07.20 ч.</td><td class="sep c">17.55 ч.</td><td class="c sep-l">12.37 ч. <span class="small soft">(27,4°)</span></td><td class="tr sep">147,221</td></tr><tr data-day=22 title="Click to expand for more details"><th>22</th><td class="c sep">07.50 ч. <span class="comp sa10" title="East-southeast (116&deg;)">↑</span> <span class="soft small">(116&deg;)</span></td><td class="sep c">17.26 ч. <span class="comp sa22" title="West-southwest (244&deg;)">↑</span> <span class="soft small">(244&deg;)</span></td><td class="c tr sep-l">9:36:05</td><td class="c tr sep">+1:57</td><td class="c sep-l">06.11 ч.</td><td class="sep c">19.05 ч.</td><td class="c sep">06.45 ч.</td><td class="sep c">18.31 ч.</td><td class="c sep">07.19 ч.</td><td class="sep c">17.57 ч.</td><td class="c sep-l">12.38 ч. <span class="small soft">(27,6°)</span></td><td class="tr sep">147,234</td></tr><tr data-day=23 title="Click to expand for more details"><th>23</th><td class="c sep">07.49 ч. <span class="comp sa10" title="East-southeast (116&deg;)">↑</span> <span class="soft small">(116&deg;)</span></td><td class="sep c">17.27 ч. <span class="comp sa22" title="West-southwest (244&deg;)">↑</span> <span class="soft small">(244&deg;)</span></td><td class="c tr sep-l">9:38:05</td><td class="c tr sep">+2:00</td><td class="c sep-l">06.11 ч.</td><td class="sep c">19.06 ч.</td><td class="c sep">06.44 ч.</td><td class="sep c">18.32 ч.</td><td class="c sep">07.18 ч.</td><td class="sep c">17.58 ч.</td><td class="c sep-l">12.38 ч. <span class="small soft">(27,9°)</span></td><td class="tr sep">147,248</td></tr><tr data-day=24 title="Click to expand for more details"><th>24</th><td class="c sep">07.48 ч. <span class="comp sa10" title="East-southeast (116&deg;)">↑</span> <span class="soft small">(116&deg;)</span></td><td class="sep c">17.28 ч. <span class="comp sa22" title="West-southwest (244&deg;)">↑</span> <span class="soft small">(244&deg;)</span></td><td class="c tr sep-l">9:40:08</td><td class="c tr sep">+2:02</td><td class="c sep-l">06.10 ч.</td><td class="sep c">19.07 ч.</td><td class="c sep">06.43 ч.</td><td class="sep c">18.33 ч.</td><td class="c sep">07.18 ч.</td><td class="sep c">17.59 ч.</td><td class="c sep-l">12.38 ч. <span class="small soft">(28,1°)</span></td><td class="tr sep">147,262</td></tr><tr data-day=25 title="Click to expand for more details"><th>25</th><td class="c sep">07.48 ч. <span class="comp sa10" title="East-southeast (115&deg;)">↑</span> <span class="soft small">(115&deg;)</span></td><td class="sep c">17.30 ч. <span class="comp sa22" title="West-southwest (245&deg;)">↑</span> <span class="soft small">(245&deg;)</span></td><td class="c tr sep-l">9:42:13</td><td class="c tr sep">+2:05</td><td class="c sep-l">06.09 ч.</td><td class="sep c">19.08 ч.</td><td class="c sep">06.43 ч.</td><td class="sep c">18.35 ч.</td><td class="c sep">07.17 ч.</td><td class="sep c">18.00 ч.</td><td class="c sep-l">12.38 ч. <span class="small soft">(28,4°)</span></td><td class="tr sep">147,277</td></tr><tr data-day=26 title="Click to expand for more details"><th>26</th><td class="c sep">07.47 ч. <span class="comp sa10" title="East-southeast (115&deg;)">↑</span> <span class="soft small">(115&deg;)</span></td><td class="sep c">17.31 ч. <span class="comp sa22" title="West-southwest (245&deg;)">↑</span> <span class="soft small">(245&deg;)</span></td><td class="c tr sep-l">9:44:21</td><td class="c tr sep">+2:07</td><td class="c sep-l">06.09 ч.</td><td class="sep c">19.09 ч.</td><td class="c sep">06.42 ч.</td><td class="sep c">18.36 ч.</td><td class="c sep">07.16 ч.</td><td class="sep c">18.01 ч.</td><td class="c sep-l">12.39 ч. <span class="small soft">(28,6°)</span></td><td class="tr sep">147,293</td></tr><tr data-day=27 title="Click to expand for more details"><th>27</th><td class="c sep">07.46 ч. <span class="comp sa10" title="East-southeast (115&deg;)">↑</span> <span class="soft small">(115&deg;)</span></td><td class="sep c">17.32 ч. <span class="comp sa22" title="West-southwest (245&deg;)">↑</span> <span class="soft small">(245&deg;)</span></td><td class="c tr sep-l">9:46:31</td><td class="c tr sep">+2:10</td><td class="c sep-l">06.08 ч.</td><td class="sep c">19.10 ч.</td><td class="c sep">06.41 ч.</td><td class="sep c">18.37 ч.</td><td class="c sep">07.15 ч.</td><td class="sep c">18.03 ч.</td><td class="c sep-l">12.39 ч. <span class="small soft">(28,9°)</span></td><td class="tr sep">147,309</td></tr><tr data-day=28 title="Click to expand for more details"><th>28</th><td class="c sep">07.45 ч. <span class="comp sa10" title="East-southeast (114&deg;)">↑</span> <span class="soft small">(114&deg;)</span></td><td class="sep c">17.34 ч. <span class="comp sa22" title="West-southwest (246&deg;)">↑</span> <span class="soft small">(246&deg;)</span></td><td class="c tr sep-l">9:48:44</td><td class="c tr sep">+2:12</td><td class="c sep-l">06.07 ч.</td><td class="sep c">19.11 ч.</td><td class="c sep">06.41 ч.</td><td class="sep c">18.38 ч.</td><td class="c sep">07.15 ч.</td><td class="sep c">18.04 ч.</td><td class="c sep-l">12.39 ч. <span class="small soft">(29,1°)</span></td><td class="tr sep">147,325</td></tr><tr data-day=29 title="Click to expand for more details"><th>29</th><td class="c sep">07.44 ч. <span class="comp sa10" title="East-southeast (114&deg;)">↑</span> <span class="soft small">(114&deg;)</span></td><td class="sep c">17.35 ч. <span class="comp sa22" title="West-southwest (246&deg;)">↑</span> <span class="soft small">(246&deg;)</span></td><td class="c tr sep-l">9:50:58</td><td class="c tr sep">+2:14</td><td class="c sep-l">06.07 ч.</td><td class="sep c">19.12 ч.</td><td class="c sep">06.40 ч.</td><td class="sep c">18.39 ч.</td><td class="c sep">07.14 ч.</td><td class="sep c">18.05 ч.</td><td class="c sep-l">12.39 ч. <span class="small soft">(29,4°)</span></td><td class="tr sep">147,343</td></tr><tr data-day=30 title="Click to expand for more details"><th>30</th><td class="c sep">07.43 ч. <span class="comp sa10" title="East-southeast (114&deg;)">↑</span> <span class="soft small">(114&deg;)</span></td><td class="sep c">17.36 ч. <span class="comp sa22" title="West-southwest (247&deg;)">↑</span> <span class="soft small">(247&deg;)</span></td><td class="c tr sep-l">9:53:15</td><td class="c tr sep">+2:16</td><td class="c sep-l">06.06 ч.</td><td class="sep c">19.14 ч.</td><td class="c sep">06.39 ч.</td><td class="sep c">18.40 ч.</td><td class="c sep">07.13 ч.</td><td class="sep c">18.06 ч.</td><td class="c sep-l">12.39 ч. <span class="small soft">(29,7°)</span></td><td class="tr sep">147,361</td></tr><tr data-day=31 title="Click to expand for more details"><th>31</th><td class="c sep">07.42 ч. <span class="comp sa10" title="East-southeast (113&deg;)">↑</span> <span class="soft small">(113&deg;)</span></td><td class="sep c">17.38 ч. <span class="comp sa22" title="West-southwest (247&deg;)">↑</span> <span class="soft small">(247&deg;)</span></td><td class="c tr sep-l">9:55:34</td><td class="c tr sep">+2:18</td><td class="c sep-l">06.05 ч.</td><td class="sep c">19.15 ч.</td><td class="c sep">06.38 ч.</td><td class="sep c">18.42 ч.</td><td class="c sep">07.12 ч.</td><td class="sep c">18.08 ч.</td><td class="c sep-l">12.40 ч. <span class="small soft">(29,9°)</span></td><td class="tr sep">147,379</td></tr></tbody><tfoot><tr><td colspan=13> * All times are local time for Sofia. They take into account <a href="/astronomy/refraction.html">refraction</a>. Dates are based on the <a href="/calendar/gregorian-calendar.html">Gregorian calendar</a>. </td></tr></tfoot></table></div><p></p><p></p><p><a href="/astronomy/perihelion-aphelion-solstice.html">Perihelion</a> was on 4 януари 2023 г., 18.17 ч. in Sofia. The Earth was closest to the Sun at this time.</p><p>The latest sunrise is on 3. януари or 4. януари. </p><p></p><p class="big tc"><a href="/sun/bulgaria/sofia?month=1" REL=nofollow>яну</a> | <a href="/sun/bulgaria/sofia?month=2" REL=nofollow>фев</a> | <a href="/sun/bulgaria/sofia?month=3" REL=nofollow>мар</a> | <a href="/sun/bulgaria/sofia?month=4" REL=nofollow>апр</a> | <a href="/sun/bulgaria/sofia?month=5" REL=nofollow>май</a> | <a href="/sun/bulgaria/sofia?month=6" REL=nofollow>юни</a> | <a href="/sun/bulgaria/sofia?month=7" REL=nofollow>юли</a> | <a href="/sun/bulgaria/sofia?month=8" REL=nofollow>авг</a> | <a href="/sun/bulgaria/sofia?month=9" REL=nofollow>сеп</a> | <a href="/sun/bulgaria/sofia?month=10" REL=nofollow>окт</a> | <a href="/sun/bulgaria/sofia?month=11" REL=nofollow>ное</a> | <a href="/sun/bulgaria/sofia?month=12" REL=nofollow>дек</a></p><div class=link__wrapper><p class=lk-block><a href="/astronomy/bulgaria/sofia" class=read-more>Sun and Moon times today for Sofia</a><br><a REL=nofollow href="/moon/bulgaria/sofia?month=1" class=read-more>Moonrise and moonset times for Sofia in януари 2023</a><br><a REL=nofollow href="/moon/phases/bulgaria/sofia" class=read-more>Phases of the Moon for Sofia in 2023</a></p><p class=lk-block><a href="/astronomy/different-types-twilight.html" class=read-more>What is twilight, dawn, and dusk?</a><br><a href="/astronomy/solar-noon.html" class=read-more>What is solar noon?</a><br><a href="/geography/magnetic-declination.html" class=read-more>Directions based on true north</a><br></p></div>
+</div></section><script type="text/javascript">
+TAD.dec=",";TAD.sep=" ";et=1688244200;
+function timeFmt(d){return p2(d.getUTCHours())+'.'+p2(d.getUTCMinutes())+' ч.';}
+function shortDateFmt(d){return d.getUTCDate()+'. '+TAD.sm[d.getUTCMonth()];}
+function f2(d){return d.getUTCDate()+' '+TAD.sm[d.getUTCMonth()]+' '+d.getUTCFullYear()+' г.'+', '+p2(d.getUTCHours())+':'+p2(d.getUTCMinutes())+':'+p2(d.getUTCSeconds())+' ч.';}
+cks={"smct":{"t":[{"t":1672524000,"o":7200,"a":"<a href=\"\/time\/zones\/eet\" title=\"Eastern European Time\">EET<\/a>"},{"t":1679792400,"o":10800,"a":"<a href=\"\/time\/zones\/eest\" title=\"Eastern European Summer Time\">EEST<\/a>","d":1},{"t":1698541200,"o":7200,"a":"<a href=\"\/time\/zones\/eet\" title=\"Eastern European Time\">EET<\/a>"}],"f":f2,"g":{"t":2}}};
+TAD.sm=['яну','фев','мар','апр','май','юни','юли','авг','сеп','окт','ное','дек'];
+</script><div class=fixed><article class="card card--list card--small"><a href="https://dev.timeanddate.com/astro/" class=card__link aria-label="Astronomy API"><div class=card__img-wrap><img src="//c.tadst.com/gfx/64x64/astro-api.png?1" width=64 height=64 alt="Illustration image" class=card__img></div><section class=card__content><h4 class=card__title>Astronomy API</h4><p class=card__text>Query the position of Sun & Moon, get the times for events like sunrise and sunset.</p></section></a></article><p class="help-link noprint"><a href="/sun/help"> Need some help?</a></p></div></article><aside class="layout-grid__sky layout-grid__sky--sticky tpl-banner__sky"><fieldset id=ad1><legend>Advertising</legend><div id='div-gpt-com-160x600' style='min-width:160px;min-height:600px;'><script>
+AdMgr.dispSlot(1);
+</script>
+</div></fieldset></aside></main><script src="/common/wcommon_20.js"></script><script src="/common/astroseries_32.js"></script><script src="/common/astrodbext_4.js"></script><script src="/common/sungraph_19.js"></script><script>
+gSeries=new ASTS();
+</script><script src="/common/currentsun_16.js"></script><script type="text/javascript">
+aSeries.set(series);
+//Copyright timeanddate.com 2021, do not use without permission
+(function(){function d(b){b&&b.stopPropagation?b.stopPropagation():event&&event.stopPropagation?event.stopPropagation():event.cancelBubble=!0}var g=function(b,a){this._element=gf(b);this._options=a||eval("("+this._element.getAttribute("data-options")+")")||{};this._options.type=this._options.type||"sun";this._options.colspan=this._options.colspan||13;this._elements={};ac(this._element,"astrotable",1);this._elements.trs=gebtn("tr",this._element.tBodies[0]);this._lookup={};this._makeGraphElements();
+this._bindDOMElements();window.location.hash?this._open(window.location.hash.replace("#","")):(b=this._elements.trs.filter(function(a){return a.classList.contains("hl")}),b.length&&b[0].getAttribute("data-day")&&this._open(b[0].getAttribute("data-day")))};g.prototype={_makeGraphElements:function(){var b=this;this._elements.graphTr=cE("tr",{"class":"graph"});var a=cE("td",{colSpan:this._options.colspan},this._elements.graphTr),c=cE("div",{"class":"ten columns"},a);this._elements.graph=cE("div",{"class":"currentsun "+
+this._options.type},c);a=cE("div",{"class":"two columns stats"},a);this._elements.time=cE("div",{id:"cs-time"},a);cE("h4",null,a).innerHTML="Altitude";this._elements.altitude=cE("span",{id:"cs-altitude"},a);cE("h4",null,a).innerHTML="Heading";this._elements.heading=cE("span",{id:"cs-heading"},a);cE("h4",null,a).innerHTML="Position";this._elements.phase=cE("span",{id:"cs-phase"},a);c=cE("div",{"class":"buttons"},c);a=cE("button",{"class":"prev"},c);iH(a,"&uarr;");ael(a,"click",function(a){b.prev(a)});
+c=cE("button",{"class":"next"},c);ael(c,"click",function(a){b.next(a)});iH(c,"&darr;")},_bindDOMElements:function(){var b=this;it(this._elements.trs,function(a){var c=a.getAttribute("data-day");c&&(ael(a,"click",function(a){b._onclick(a,this)}),b._lookup[c]=a)})},_onCurrentSunUpdate:function(b){iH(this._elements.time,b.time_formatted);iH(this._elements.altitude,b.altitude+"&deg;");90===b.altitude?iH(this._elements.heading,"Zenith"):iH(this._elements.heading,"<span class='comp sa"+2*b.directionValue+
+"'>\u2191</span><span class=deg>"+b.azimuth+"&deg;</span><span class=car>"+b.cardinal+"</span>");iH(this._elements.phase,b.phase)},_makeCurrentSun:function(){var b=this;b._currentSun=new CurrentSun(b._elements.graph,this._options.type);b._currentSun.onupdate=function(a){b._onCurrentSunUpdate(a)};b._currentSun.setTime(0)},_close:function(b,a){this._lastTarget&&(ac(this._lastTarget,"selected",0),this._lastTarget.parentElement.removeChild(this._elements.graphTr),this._lastTarget=null,ac(this._element,
+"isselected",0),window.onclick=null,b=document.documentElement.scrollTop||document.body.scrollTop,document.body.scrollTop=b,document.documentElement.scrollTop=b)},_open:function(b){var a=this,c=a._lookup[b];c&&(c.parentElement.insertBefore(a._elements.graphTr,c.nextSibling),gSeries.fetch(ASTDATA.obj,ASTDATA.n,ASTDATA.year,ASTDATA.month,b,function(){a._currentSun?a._currentSun.redraw():a._makeCurrentSun();for(var b=0,c=gSeries.events(a._options.type),f=0;f<c.count();f++){var d=c.get(f);if(d.isMeridian()){b=
+d.time();break}}a._currentSun.setTime(b)}),ac(c,"selected",1),a._lastTarget&&ac(a._lastTarget,"selected",0),a._lastTarget=c,ac(a._element,"isselected",1))},_onclick:function(b,a){if("TR"!=a.tagName)for(a=b.srcElement;"TR"!=a.tagName;)a=a.parentElement;window.onclick=null;b=a.getAttribute("data-day");this._lastTarget!==a&&b?this._open(b):this._close()},next:function(b){if(this._lastTarget){var a=this._lastTarget.getAttribute("data-day"),c=document.documentElement.scrollTop||document.body.scrollTop,
+e=this._lastTarget.offsetTop;this._open(++a);document.body.scrollTop=c+(this._lastTarget.offsetTop-e);document.documentElement.scrollTop=c+(this._lastTarget.offsetTop-e)}d(b);return!1},prev:function(b){if(this._lastTarget){var a=this._lastTarget.getAttribute("data-day"),c=document.documentElement.scrollTop||document.body.scrollTop,e=this._lastTarget.offsetTop;this._open(--a);document.body.scrollTop=c+(this._lastTarget.offsetTop-e);document.documentElement.scrollTop=c+(this._lastTarget.offsetTop-e)}d(b);
+return!1}};window.AstroTable=g})();
+var st=new Sticky("as-monthsun"),at=new AstroTable("as-monthsun");(function(){function d(a){var c=gebtn("select",a)[0],b=gebtn("input",a)[0];c.onchange=function(){b.value=this.options[this.selectedIndex].value};b.onfocus=function(){b.select()};b.value=c.options[c.selectedIndex].text}freetextselectElements=gebc("freetextselect");it(freetextselectElements,function(a){d(a)})})();
+</script> </div>
+</div>
+
+<footer class="footer">
+ <section class="feedback-bar">
+ <div class="fixed feedback-bar__wrap">
+ <section id="instant-feedback" class="feedback-bar__instant-feedback">
+ <span class="feedback-bar__msg">How was your experience?</span>
+ <span class="feedback-bar__thankyou">Thank you for your feedback!</span>
+ <a href="#" onclick="return blif(1)" class="feedback-bar__thumb feedback-bar__thumb--up" title="Vote Good" aria-label="Vote for having a good experience"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0V0z"/><path d="M1 21h4V9H1v12zm22-11c0-1.1-.9-2-2-2h-6.31l.95-4.57.03-.32c0-.41-.17-.79-.44-1.06L14.17 1 7.59 7.59C7.22 7.95 7 8.45 7 9v10c0 1.1.9 2 2 2h9c.83 0 1.54-.5 1.84-1.22l3.02-7.05c.09-.23.14-.47.14-.73v-2z"/></svg></a>
+ 
+ <a href="#" onclick="return blif(0)" class="feedback-bar__thumb feedback-bar__thumb--down" title="Vote Bad" aria-label="Vote for having a bad experience"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path d="M15 3H6c-.83 0-1.54.5-1.84 1.22l-3.02 7.05c-.09.23-.14.47-.14.73v2c0 1.1.9 2 2 2h6.31l-.95 4.57-.03.32c0 .41.17.79.44 1.06L9.83 23l6.59-6.59c.36-.36.58-.86.58-1.41V5c0-1.1-.9-2-2-2zm4 0v12h4V3h-4z"/></svg>
+ </a>
+ </section>
+ 
+ <section class="feedback-bar__contact"><a id=bls1 href="/information/feedback.html" onclick="return bls(this)">Contact Us 
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/><path d="M0 0h24v24H0z" fill="none"/></svg></a></section>
+ </div>
+ </section>
+
+ <section class="fixed footer__wrap">
+ <section class="footer__block footer__block--promo">
+ <article class="footer-card">
+ <a href="/services/supporter.html" class="footer-card__img-link">
+ <img class="footer-card__img" width="100" height="100" src="//c.tadst.com/gfx/n/i/service__supporter.svg" loading="lazy" alt="Illustration of a pink shield with a white heart." />
+ </a>
+ <section class="footer-card__content">
+ <h4 class="footer-card__title">
+ <a href="/services/supporter.html">
+  Love Our Site? Become a Supporter
+  </a>
+ </h4>
+ <ul class="footer-card__text">
+ <li>Browse our site <strong>advert free.</strong></li>
+ <li>Sun &amp; Moon times <strong>precise to the second.</strong></li>
+ <li><strong>Exclusive calendar templates</strong> for PDF Calendar.</li>
+ </ul>
+ </section>
+ </article>
+ <section class="footer__logo">
+ <a href="/" rel="home"><img src="//c.tadst.com/gfx/n/logo/logo-2021--horizontal-color-whitebg.svg" alt="The timeanddate logo" width="176" height="24"></a>
+ <p><a href="/information/copyright.html">© Time and Date AS 1995–2023</a></p>
+ </section>
+ </section>
+ <section class="footer__block footer__block--links-wrap">
+ <section class="footer__links">
+ <nav class="footer__links-block footer__links-block--company">
+ <h4>Company</h4>
+ <ul>
+ <li><a href="/company/">About us</a></li>
+ <li><a href="/company/jobs">Careers/Jobs</a></li>
+ <li><a href="/information/feedback.html" id=bls2 onclick="return bls(this)">Contact Us</a></li>
+  <li><a href="/information/contact.html">Contact Details</a></li>
+   <li><a href="/sitemap.html">Sitemap</a></li>
+  <li><a href="/newsletter/">Newsletter</a></li>
+ </ul>
+ </nav>
+ <nav class="footer__links-block footer__links-block--legal">
+ <h4>Legal</h4>
+ <ul>
+ <li><a href="/information/copyright.html">Link policy</a></li>
+ <li><a href="/information/advertising.html">Advertising</a></li>
+ <li><a href="/information/disclaimer.html">Disclaimer</a></li>
+ <li><a href="/information/terms-conditions.html">Terms &amp; Conditions</a></li>
+ <li><a href="/information/privacy.html">Privacy Policy</a></li>
+
+
+ <li><a href="/custom/privacy.html">My Privacy</a></li>
+ 
+  
+ 
+ 
+ </ul>
+ </nav>
+ <nav class="footer__links-block footer__links-block--services">
+ <h4>Services</h4>
+ <ul>
+ <li><a href="/worldclock/">World Clock</a></li>
+ <li><a href="/time/">Time Zones</a></li>
+ <li><a href="/calendar/">Calendar</a></li>
+ <li><a href="/weather/">Weather</a></li>
+ <li><a href="/astronomy/">Sun &amp; Moon</a></li>
+ <li><a href="/counters/">Timers</a></li>
+ <li><a href="/date/">Calculators</a></li>
+ <li><a href="/services/api/">API</a></li>
+ </ul>
+ </nav>
+ <nav class="footer__links-block footer__links-block--sites">
+ <h4>Sites</h4>
+ <ul>
+   <li><a href="https://www.timeanddate.no">timeanddate.no</a></li>
+   <li><a href="https://www.timeanddate.de">timeanddate.de</a></li>
+  </ul>
+ </nav>
+ <section class="footer__social">
+ <h4>Follow Us</h4>
+ <div class="footer__social-icons">
+ <a href="https://www.facebook.com/timeanddate/"><i class="footer__social-icon footer__social-icon--facebook" title="timeanddate.com on Facebook"></i></a>
+ <a href="https://twitter.com/timeanddate"><i class="footer__social-icon footer__social-icon--twitter" title="timeanddate.com on Twitter"></i></a>
+ <a href="https://www.linkedin.com/company/time-and-date-as/about/"><i class="footer__social-icon footer__social-icon--linkedin" title="timeanddate.com on Linkedin"></i></a>
+ <a href="https://www.instagram.com/timeanddatecom/"><i class="footer__social-icon footer__social-icon--instagram" title="timeanddate.com on Instagram"></i></a>
+ <a href="https://www.youtube.com/c/timeanddate"><i class="footer__social-icon footer__social-icon--youtube" title="timeanddate.com on YouTube"></i></a>
+ </div>
+ </section>
+ </section>
+ 
+ <p class="footer__copyright">
+ © Time and Date AS 1995–2023. 
+ <a href="/information/copyright.html">Privacy &amp; Terms</a>
+ </p>
+ </section>
+ </section>
+</footer>
+<!-- FOOTER END -->
+
+<script>
+ 
+bli();main();
+ 
+</script>
+ 
+<div id=FBD style="display:none" class=wfc></div>
+<script src="/common/heatmap.js" async></script>
+
+
+</body></html>

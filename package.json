@@ -1,12 +1,22 @@
 {
-  "name": "CivilTwillight-Switcher",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "civiltwillight-switcher",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "A simple light automatic switcher based on light intensity throughout the year",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "extract:timeanddate": "ts-node --esm ./extractors/timeanddate.com/main.ts"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "automation",
+    "light switching",
+    "electronics"
+  ],
+  "author": "Fractal-Tess",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.3.2",
+    "cheerio": "1.0.0-rc.12",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.5"
+  }
 }
