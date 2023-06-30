@@ -1,2674 +1,336 @@
 [
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 1,
-      "start": "07.24",
-      "end": "17.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 2,
-      "start": "07.25",
-      "end": "17.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 3,
-      "start": "07.25",
-      "end": "17.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 4,
-      "start": "07.25",
-      "end": "17.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 5,
-      "start": "07.25",
-      "end": "17.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 6,
-      "start": "07.25",
-      "end": "17.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 7,
-      "start": "07.25",
-      "end": "17.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 8,
-      "start": "07.25",
-      "end": "17.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 9,
-      "start": "07.24",
-      "end": "17.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 10,
-      "start": "07.24",
-      "end": "17.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 11,
-      "start": "07.24",
-      "end": "17.44"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 12,
-      "start": "07.24",
-      "end": "17.45"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 13,
-      "start": "07.23",
-      "end": "17.46"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 14,
-      "start": "07.23",
-      "end": "17.47"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 15,
-      "start": "07.23",
-      "end": "17.49"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 16,
-      "start": "07.22",
-      "end": "17.50"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 17,
-      "start": "07.22",
-      "end": "17.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 18,
-      "start": "07.21",
-      "end": "17.52"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 19,
-      "start": "07.21",
-      "end": "17.53"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 20,
-      "start": "07.20",
-      "end": "17.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 21,
-      "start": "07.20",
-      "end": "17.55"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 22,
-      "start": "07.19",
-      "end": "17.57"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 23,
-      "start": "07.18",
-      "end": "17.58"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 24,
-      "start": "07.18",
-      "end": "17.59"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 25,
-      "start": "07.17",
-      "end": "18.00"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 26,
-      "start": "07.16",
-      "end": "18.01"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 27,
-      "start": "07.15",
-      "end": "18.03"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 28,
-      "start": "07.15",
-      "end": "18.04"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 29,
-      "start": "07.14",
-      "end": "18.05"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 30,
-      "start": "07.13",
-      "end": "18.06"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 1,
-      "day": 31,
-      "start": "07.12",
-      "end": "18.08"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 1,
-      "start": "07.11",
-      "end": "18.09"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 2,
-      "start": "07.10",
-      "end": "18.10"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 3,
-      "start": "07.09",
-      "end": "18.11"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 4,
-      "start": "07.08",
-      "end": "18.13"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 5,
-      "start": "07.07",
-      "end": "18.14"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 6,
-      "start": "07.06",
-      "end": "18.15"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 7,
-      "start": "07.05",
-      "end": "18.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 8,
-      "start": "07.04",
-      "end": "18.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 9,
-      "start": "07.02",
-      "end": "18.19"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 10,
-      "start": "07.01",
-      "end": "18.20"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 11,
-      "start": "07.00",
-      "end": "18.21"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 12,
-      "start": "06.59",
-      "end": "18.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 13,
-      "start": "06.57",
-      "end": "18.24"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 14,
-      "start": "06.56",
-      "end": "18.25"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 15,
-      "start": "06.55",
-      "end": "18.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 16,
-      "start": "06.54",
-      "end": "18.28"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 17,
-      "start": "06.52",
-      "end": "18.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 18,
-      "start": "06.51",
-      "end": "18.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 19,
-      "start": "06.49",
-      "end": "18.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 20,
-      "start": "06.48",
-      "end": "18.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 21,
-      "start": "06.47",
-      "end": "18.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 22,
-      "start": "06.45",
-      "end": "18.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 23,
-      "start": "06.44",
-      "end": "18.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 24,
-      "start": "06.42",
-      "end": "18.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 25,
-      "start": "06.41",
-      "end": "18.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 26,
-      "start": "06.39",
-      "end": "18.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 27,
-      "start": "06.37",
-      "end": "18.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 2,
-      "day": 28,
-      "start": "06.36",
-      "end": "18.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 1,
-      "start": "06.34",
-      "end": "18.44"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 2,
-      "start": "06.33",
-      "end": "18.45"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 3,
-      "start": "06.31",
-      "end": "18.46"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 4,
-      "start": "06.30",
-      "end": "18.47"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 5,
-      "start": "06.28",
-      "end": "18.48"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 6,
-      "start": "06.26",
-      "end": "18.50"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 7,
-      "start": "06.25",
-      "end": "18.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 8,
-      "start": "06.23",
-      "end": "18.52"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 9,
-      "start": "06.21",
-      "end": "18.53"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 10,
-      "start": "06.20",
-      "end": "18.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 11,
-      "start": "06.18",
-      "end": "18.55"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 12,
-      "start": "06.16",
-      "end": "18.57"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 13,
-      "start": "06.14",
-      "end": "18.58"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 14,
-      "start": "06.13",
-      "end": "18.59"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 15,
-      "start": "06.11",
-      "end": "19.00"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 16,
-      "start": "06.09",
-      "end": "19.01"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 17,
-      "start": "06.07",
-      "end": "19.03"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 18,
-      "start": "06.06",
-      "end": "19.04"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 19,
-      "start": "06.04",
-      "end": "19.05"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 20,
-      "start": "06.02",
-      "end": "19.06"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 21,
-      "start": "06.00",
-      "end": "19.07"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 22,
-      "start": "05.59",
-      "end": "19.08"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 23,
-      "start": "05.57",
-      "end": "19.10"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 24,
-      "start": "05.55",
-      "end": "19.11"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 25,
-      "start": "05.53",
-      "end": "19.12"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 26,
-      "start": "06.52",
-      "end": "20.13"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 27,
-      "start": "06.50",
-      "end": "20.14"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 28,
-      "start": "06.48",
-      "end": "20.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 29,
-      "start": "06.46",
-      "end": "20.17"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 30,
-      "start": "06.44",
-      "end": "20.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 3,
-      "day": 31,
-      "start": "06.43",
-      "end": "20.19"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 1,
-      "start": "06.41",
-      "end": "20.20"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 2,
-      "start": "06.39",
-      "end": "20.22"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 3,
-      "start": "06.37",
-      "end": "20.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 4,
-      "start": "06.36",
-      "end": "20.24"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 5,
-      "start": "06.34",
-      "end": "20.25"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 6,
-      "start": "06.32",
-      "end": "20.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 7,
-      "start": "06.30",
-      "end": "20.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 8,
-      "start": "06.28",
-      "end": "20.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 9,
-      "start": "06.27",
-      "end": "20.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 10,
-      "start": "06.25",
-      "end": "20.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 11,
-      "start": "06.23",
-      "end": "20.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 12,
-      "start": "06.21",
-      "end": "20.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 13,
-      "start": "06.20",
-      "end": "20.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 14,
-      "start": "06.18",
-      "end": "20.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 15,
-      "start": "06.16",
-      "end": "20.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 16,
-      "start": "06.15",
-      "end": "20.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 17,
-      "start": "06.13",
-      "end": "20.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 18,
-      "start": "06.11",
-      "end": "20.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 19,
-      "start": "06.10",
-      "end": "20.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 20,
-      "start": "06.08",
-      "end": "20.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 21,
-      "start": "06.06",
-      "end": "20.45"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 22,
-      "start": "06.05",
-      "end": "20.46"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 23,
-      "start": "06.03",
-      "end": "20.47"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 24,
-      "start": "06.01",
-      "end": "20.48"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 25,
-      "start": "06.00",
-      "end": "20.50"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 26,
-      "start": "05.58",
-      "end": "20.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 27,
-      "start": "05.57",
-      "end": "20.52"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 28,
-      "start": "05.55",
-      "end": "20.53"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 29,
-      "start": "05.54",
-      "end": "20.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 4,
-      "day": 30,
-      "start": "05.52",
-      "end": "20.56"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 1,
-      "start": "05.51",
-      "end": "20.57"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 2,
-      "start": "05.49",
-      "end": "20.58"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 3,
-      "start": "05.48",
-      "end": "20.59"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 4,
-      "start": "05.46",
-      "end": "21.01"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 5,
-      "start": "05.45",
-      "end": "21.02"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 6,
-      "start": "05.43",
-      "end": "21.03"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 7,
-      "start": "05.42",
-      "end": "21.04"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 8,
-      "start": "05.41",
-      "end": "21.06"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 9,
-      "start": "05.39",
-      "end": "21.07"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 10,
-      "start": "05.38",
-      "end": "21.08"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 11,
-      "start": "05.37",
-      "end": "21.09"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 12,
-      "start": "05.36",
-      "end": "21.10"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 13,
-      "start": "05.34",
-      "end": "21.12"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 14,
-      "start": "05.33",
-      "end": "21.13"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 15,
-      "start": "05.32",
-      "end": "21.14"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 16,
-      "start": "05.31",
-      "end": "21.15"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 17,
-      "start": "05.30",
-      "end": "21.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 18,
-      "start": "05.29",
-      "end": "21.17"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 19,
-      "start": "05.28",
-      "end": "21.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 20,
-      "start": "05.27",
-      "end": "21.20"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 21,
-      "start": "05.26",
-      "end": "21.21"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 22,
-      "start": "05.25",
-      "end": "21.22"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 23,
-      "start": "05.24",
-      "end": "21.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 24,
-      "start": "05.23",
-      "end": "21.24"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 25,
-      "start": "05.22",
-      "end": "21.25"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 26,
-      "start": "05.21",
-      "end": "21.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 27,
-      "start": "05.20",
-      "end": "21.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 28,
-      "start": "05.20",
-      "end": "21.28"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 29,
-      "start": "05.19",
-      "end": "21.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 30,
-      "start": "05.18",
-      "end": "21.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 5,
-      "day": 31,
-      "start": "05.18",
-      "end": "21.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 1,
-      "start": "05.17",
-      "end": "21.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 2,
-      "start": "05.16",
-      "end": "21.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 3,
-      "start": "05.16",
-      "end": "21.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 4,
-      "start": "05.15",
-      "end": "21.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 5,
-      "start": "05.15",
-      "end": "21.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 6,
-      "start": "05.15",
-      "end": "21.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 7,
-      "start": "05.14",
-      "end": "21.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 8,
-      "start": "05.14",
-      "end": "21.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 9,
-      "start": "05.14",
-      "end": "21.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 10,
-      "start": "05.13",
-      "end": "21.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 11,
-      "start": "05.13",
-      "end": "21.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 12,
-      "start": "05.13",
-      "end": "21.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 13,
-      "start": "05.13",
-      "end": "21.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 14,
-      "start": "05.13",
-      "end": "21.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 15,
-      "start": "05.13",
-      "end": "21.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 16,
-      "start": "05.13",
-      "end": "21.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 17,
-      "start": "05.13",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 18,
-      "start": "05.13",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 19,
-      "start": "05.13",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 20,
-      "start": "05.13",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 21,
-      "start": "05.13",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 22,
-      "start": "05.13",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 23,
-      "start": "05.14",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 24,
-      "start": "05.14",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 25,
-      "start": "05.14",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 26,
-      "start": "05.15",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 27,
-      "start": "05.15",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 28,
-      "start": "05.15",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 29,
-      "start": "05.16",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 6,
-      "day": 30,
-      "start": "05.16",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 1,
-      "start": "05.17",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 2,
-      "start": "05.17",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 3,
-      "start": "05.18",
-      "end": "21.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 4,
-      "start": "05.19",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 5,
-      "start": "05.19",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 6,
-      "start": "05.20",
-      "end": "21.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 7,
-      "start": "05.21",
-      "end": "21.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 8,
-      "start": "05.21",
-      "end": "21.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 9,
-      "start": "05.22",
-      "end": "21.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 10,
-      "start": "05.23",
-      "end": "21.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 11,
-      "start": "05.24",
-      "end": "21.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 12,
-      "start": "05.25",
-      "end": "21.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 13,
-      "start": "05.26",
-      "end": "21.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 14,
-      "start": "05.27",
-      "end": "21.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 15,
-      "start": "05.27",
-      "end": "21.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 16,
-      "start": "05.28",
-      "end": "21.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 17,
-      "start": "05.29",
-      "end": "21.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 18,
-      "start": "05.30",
-      "end": "21.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 19,
-      "start": "05.31",
-      "end": "21.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 20,
-      "start": "05.32",
-      "end": "21.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 21,
-      "start": "05.33",
-      "end": "21.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 22,
-      "start": "05.34",
-      "end": "21.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 23,
-      "start": "05.35",
-      "end": "21.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 24,
-      "start": "05.36",
-      "end": "21.28"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 25,
-      "start": "05.38",
-      "end": "21.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 26,
-      "start": "05.39",
-      "end": "21.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 27,
-      "start": "05.40",
-      "end": "21.25"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 28,
-      "start": "05.41",
-      "end": "21.24"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 29,
-      "start": "05.42",
-      "end": "21.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 30,
-      "start": "05.43",
-      "end": "21.22"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 7,
-      "day": 31,
-      "start": "05.44",
-      "end": "21.20"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 1,
-      "start": "05.45",
-      "end": "21.19"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 2,
-      "start": "05.46",
-      "end": "21.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 3,
-      "start": "05.48",
-      "end": "21.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 4,
-      "start": "05.49",
-      "end": "21.15"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 5,
-      "start": "05.50",
-      "end": "21.14"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 6,
-      "start": "05.51",
-      "end": "21.12"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 7,
-      "start": "05.52",
-      "end": "21.11"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 8,
-      "start": "05.53",
-      "end": "21.10"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 9,
-      "start": "05.55",
-      "end": "21.08"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 10,
-      "start": "05.56",
-      "end": "21.07"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 11,
-      "start": "05.57",
-      "end": "21.05"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 12,
-      "start": "05.58",
-      "end": "21.04"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 13,
-      "start": "05.59",
-      "end": "21.02"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 14,
-      "start": "06.00",
-      "end": "21.01"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 15,
-      "start": "06.02",
-      "end": "20.59"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 16,
-      "start": "06.03",
-      "end": "20.57"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 17,
-      "start": "06.04",
-      "end": "20.56"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 18,
-      "start": "06.05",
-      "end": "20.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 19,
-      "start": "06.06",
-      "end": "20.53"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 20,
-      "start": "06.08",
-      "end": "20.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 21,
-      "start": "06.09",
-      "end": "20.49"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 22,
-      "start": "06.10",
-      "end": "20.48"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 23,
-      "start": "06.11",
-      "end": "20.46"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 24,
-      "start": "06.12",
-      "end": "20.44"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 25,
-      "start": "06.13",
-      "end": "20.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 26,
-      "start": "06.15",
-      "end": "20.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 27,
-      "start": "06.16",
-      "end": "20.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 28,
-      "start": "06.17",
-      "end": "20.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 29,
-      "start": "06.18",
-      "end": "20.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 30,
-      "start": "06.19",
-      "end": "20.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 8,
-      "day": 31,
-      "start": "06.20",
-      "end": "20.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 1,
-      "start": "06.21",
-      "end": "20.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 2,
-      "start": "06.23",
-      "end": "20.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 3,
-      "start": "06.24",
-      "end": "20.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 4,
-      "start": "06.25",
-      "end": "20.25"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 5,
-      "start": "06.26",
-      "end": "20.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 6,
-      "start": "06.27",
-      "end": "20.21"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 7,
-      "start": "06.28",
-      "end": "20.20"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 8,
-      "start": "06.29",
-      "end": "20.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 9,
-      "start": "06.30",
-      "end": "20.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 10,
-      "start": "06.32",
-      "end": "20.14"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 11,
-      "start": "06.33",
-      "end": "20.12"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 12,
-      "start": "06.34",
-      "end": "20.11"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 13,
-      "start": "06.35",
-      "end": "20.09"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 14,
-      "start": "06.36",
-      "end": "20.07"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 15,
-      "start": "06.37",
-      "end": "20.05"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 16,
-      "start": "06.38",
-      "end": "20.03"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 17,
-      "start": "06.39",
-      "end": "20.02"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 18,
-      "start": "06.40",
-      "end": "20.00"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 19,
-      "start": "06.42",
-      "end": "19.58"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 20,
-      "start": "06.43",
-      "end": "19.56"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 21,
-      "start": "06.44",
-      "end": "19.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 22,
-      "start": "06.45",
-      "end": "19.52"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 23,
-      "start": "06.46",
-      "end": "19.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 24,
-      "start": "06.47",
-      "end": "19.49"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 25,
-      "start": "06.48",
-      "end": "19.47"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 26,
-      "start": "06.49",
-      "end": "19.45"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 27,
-      "start": "06.50",
-      "end": "19.44"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 28,
-      "start": "06.51",
-      "end": "19.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 29,
-      "start": "06.53",
-      "end": "19.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 9,
-      "day": 30,
-      "start": "06.54",
-      "end": "19.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 1,
-      "start": "06.55",
-      "end": "19.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 2,
-      "start": "06.56",
-      "end": "19.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 3,
-      "start": "06.57",
-      "end": "19.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 4,
-      "start": "06.58",
-      "end": "19.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 5,
-      "start": "06.59",
-      "end": "19.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 6,
-      "start": "07.00",
-      "end": "19.28"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 7,
-      "start": "07.01",
-      "end": "19.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 8,
-      "start": "07.02",
-      "end": "19.24"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 9,
-      "start": "07.04",
-      "end": "19.23"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 10,
-      "start": "07.05",
-      "end": "19.21"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 11,
-      "start": "07.06",
-      "end": "19.19"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 12,
-      "start": "07.07",
-      "end": "19.18"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 13,
-      "start": "07.08",
-      "end": "19.16"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 14,
-      "start": "07.09",
-      "end": "19.15"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 15,
-      "start": "07.10",
-      "end": "19.13"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 16,
-      "start": "07.12",
-      "end": "19.11"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 17,
-      "start": "07.13",
-      "end": "19.10"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 18,
-      "start": "07.14",
-      "end": "19.08"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 19,
-      "start": "07.15",
-      "end": "19.07"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 20,
-      "start": "07.16",
-      "end": "19.05"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 21,
-      "start": "07.17",
-      "end": "19.04"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 22,
-      "start": "07.18",
-      "end": "19.02"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 23,
-      "start": "07.20",
-      "end": "19.01"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 24,
-      "start": "07.21",
-      "end": "18.59"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 25,
-      "start": "07.22",
-      "end": "18.58"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 26,
-      "start": "07.23",
-      "end": "18.57"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 27,
-      "start": "07.24",
-      "end": "18.55"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 28,
-      "start": "07.25",
-      "end": "18.54"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 29,
-      "start": "06.27",
-      "end": "17.53"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 30,
-      "start": "06.28",
-      "end": "17.51"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 10,
-      "day": 31,
-      "start": "06.29",
-      "end": "17.50"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 1,
-      "start": "06.30",
-      "end": "17.49"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 2,
-      "start": "06.31",
-      "end": "17.48"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 3,
-      "start": "06.33",
-      "end": "17.46"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 4,
-      "start": "06.34",
-      "end": "17.45"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 5,
-      "start": "06.35",
-      "end": "17.44"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 6,
-      "start": "06.36",
-      "end": "17.43"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 7,
-      "start": "06.37",
-      "end": "17.42"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 8,
-      "start": "06.39",
-      "end": "17.41"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 9,
-      "start": "06.40",
-      "end": "17.40"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 10,
-      "start": "06.41",
-      "end": "17.39"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 11,
-      "start": "06.42",
-      "end": "17.38"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 12,
-      "start": "06.43",
-      "end": "17.37"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 13,
-      "start": "06.45",
-      "end": "17.36"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 14,
-      "start": "06.46",
-      "end": "17.35"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 15,
-      "start": "06.47",
-      "end": "17.34"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 16,
-      "start": "06.48",
-      "end": "17.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 17,
-      "start": "06.49",
-      "end": "17.33"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 18,
-      "start": "06.50",
-      "end": "17.32"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 19,
-      "start": "06.52",
-      "end": "17.31"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 20,
-      "start": "06.53",
-      "end": "17.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 21,
-      "start": "06.54",
-      "end": "17.30"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 22,
-      "start": "06.55",
-      "end": "17.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 23,
-      "start": "06.56",
-      "end": "17.29"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 24,
-      "start": "06.57",
-      "end": "17.28"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 25,
-      "start": "06.58",
-      "end": "17.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 26,
-      "start": "06.59",
-      "end": "17.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 27,
-      "start": "07.01",
-      "end": "17.27"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 28,
-      "start": "07.02",
-      "end": "17.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 29,
-      "start": "07.03",
-      "end": "17.26"
-    }
-  },
-  {
-    "civilTwilight": {
-      "month": 11,
-      "day": 30,
-      "start": "07.04",
-      "end": "17.25"
-    }
-  }
+  { "month": 1, "day": 1, "start": "07.24", "end": "17.35" },
+  { "month": 1, "day": 2, "start": "07.25", "end": "17.36" },
+  { "month": 1, "day": 3, "start": "07.25", "end": "17.37" },
+  { "month": 1, "day": 4, "start": "07.25", "end": "17.37" },
+  { "month": 1, "day": 5, "start": "07.25", "end": "17.38" },
+  { "month": 1, "day": 6, "start": "07.25", "end": "17.39" },
+  { "month": 1, "day": 7, "start": "07.25", "end": "17.40" },
+  { "month": 1, "day": 8, "start": "07.25", "end": "17.41" },
+  { "month": 1, "day": 9, "start": "07.24", "end": "17.42" },
+  { "month": 1, "day": 10, "start": "07.24", "end": "17.43" },
+  { "month": 1, "day": 11, "start": "07.24", "end": "17.44" },
+  { "month": 1, "day": 12, "start": "07.24", "end": "17.45" },
+  { "month": 1, "day": 13, "start": "07.23", "end": "17.46" },
+  { "month": 1, "day": 14, "start": "07.23", "end": "17.47" },
+  { "month": 1, "day": 15, "start": "07.23", "end": "17.49" },
+  { "month": 1, "day": 16, "start": "07.22", "end": "17.50" },
+  { "month": 1, "day": 17, "start": "07.22", "end": "17.51" },
+  { "month": 1, "day": 18, "start": "07.21", "end": "17.52" },
+  { "month": 1, "day": 19, "start": "07.21", "end": "17.53" },
+  { "month": 1, "day": 20, "start": "07.20", "end": "17.54" },
+  { "month": 1, "day": 21, "start": "07.20", "end": "17.55" },
+  { "month": 1, "day": 22, "start": "07.19", "end": "17.57" },
+  { "month": 1, "day": 23, "start": "07.18", "end": "17.58" },
+  { "month": 1, "day": 24, "start": "07.18", "end": "17.59" },
+  { "month": 1, "day": 25, "start": "07.17", "end": "18.00" },
+  { "month": 1, "day": 26, "start": "07.16", "end": "18.01" },
+  { "month": 1, "day": 27, "start": "07.15", "end": "18.03" },
+  { "month": 1, "day": 28, "start": "07.15", "end": "18.04" },
+  { "month": 1, "day": 29, "start": "07.14", "end": "18.05" },
+  { "month": 1, "day": 30, "start": "07.13", "end": "18.06" },
+  { "month": 1, "day": 31, "start": "07.12", "end": "18.08" },
+  { "month": 2, "day": 1, "start": "07.11", "end": "18.09" },
+  { "month": 2, "day": 2, "start": "07.10", "end": "18.10" },
+  { "month": 2, "day": 3, "start": "07.09", "end": "18.11" },
+  { "month": 2, "day": 4, "start": "07.08", "end": "18.13" },
+  { "month": 2, "day": 5, "start": "07.07", "end": "18.14" },
+  { "month": 2, "day": 6, "start": "07.06", "end": "18.15" },
+  { "month": 2, "day": 7, "start": "07.05", "end": "18.16" },
+  { "month": 2, "day": 8, "start": "07.04", "end": "18.18" },
+  { "month": 2, "day": 9, "start": "07.02", "end": "18.19" },
+  { "month": 2, "day": 10, "start": "07.01", "end": "18.20" },
+  { "month": 2, "day": 11, "start": "07.00", "end": "18.21" },
+  { "month": 2, "day": 12, "start": "06.59", "end": "18.23" },
+  { "month": 2, "day": 13, "start": "06.57", "end": "18.24" },
+  { "month": 2, "day": 14, "start": "06.56", "end": "18.25" },
+  { "month": 2, "day": 15, "start": "06.55", "end": "18.26" },
+  { "month": 2, "day": 16, "start": "06.54", "end": "18.28" },
+  { "month": 2, "day": 17, "start": "06.52", "end": "18.29" },
+  { "month": 2, "day": 18, "start": "06.51", "end": "18.30" },
+  { "month": 2, "day": 19, "start": "06.49", "end": "18.31" },
+  { "month": 2, "day": 20, "start": "06.48", "end": "18.33" },
+  { "month": 2, "day": 21, "start": "06.47", "end": "18.34" },
+  { "month": 2, "day": 22, "start": "06.45", "end": "18.35" },
+  { "month": 2, "day": 23, "start": "06.44", "end": "18.36" },
+  { "month": 2, "day": 24, "start": "06.42", "end": "18.37" },
+  { "month": 2, "day": 25, "start": "06.41", "end": "18.39" },
+  { "month": 2, "day": 26, "start": "06.39", "end": "18.40" },
+  { "month": 2, "day": 27, "start": "06.37", "end": "18.41" },
+  { "month": 2, "day": 28, "start": "06.36", "end": "18.42" },
+  { "month": 3, "day": 1, "start": "06.34", "end": "18.44" },
+  { "month": 3, "day": 2, "start": "06.33", "end": "18.45" },
+  { "month": 3, "day": 3, "start": "06.31", "end": "18.46" },
+  { "month": 3, "day": 4, "start": "06.30", "end": "18.47" },
+  { "month": 3, "day": 5, "start": "06.28", "end": "18.48" },
+  { "month": 3, "day": 6, "start": "06.26", "end": "18.50" },
+  { "month": 3, "day": 7, "start": "06.25", "end": "18.51" },
+  { "month": 3, "day": 8, "start": "06.23", "end": "18.52" },
+  { "month": 3, "day": 9, "start": "06.21", "end": "18.53" },
+  { "month": 3, "day": 10, "start": "06.20", "end": "18.54" },
+  { "month": 3, "day": 11, "start": "06.18", "end": "18.55" },
+  { "month": 3, "day": 12, "start": "06.16", "end": "18.57" },
+  { "month": 3, "day": 13, "start": "06.14", "end": "18.58" },
+  { "month": 3, "day": 14, "start": "06.13", "end": "18.59" },
+  { "month": 3, "day": 15, "start": "06.11", "end": "19.00" },
+  { "month": 3, "day": 16, "start": "06.09", "end": "19.01" },
+  { "month": 3, "day": 17, "start": "06.07", "end": "19.03" },
+  { "month": 3, "day": 18, "start": "06.06", "end": "19.04" },
+  { "month": 3, "day": 19, "start": "06.04", "end": "19.05" },
+  { "month": 3, "day": 20, "start": "06.02", "end": "19.06" },
+  { "month": 3, "day": 21, "start": "06.00", "end": "19.07" },
+  { "month": 3, "day": 22, "start": "05.59", "end": "19.08" },
+  { "month": 3, "day": 23, "start": "05.57", "end": "19.10" },
+  { "month": 3, "day": 24, "start": "05.55", "end": "19.11" },
+  { "month": 3, "day": 25, "start": "05.53", "end": "19.12" },
+  { "month": 3, "day": 26, "start": "06.52", "end": "20.13" },
+  { "month": 3, "day": 27, "start": "06.50", "end": "20.14" },
+  { "month": 3, "day": 28, "start": "06.48", "end": "20.16" },
+  { "month": 3, "day": 29, "start": "06.46", "end": "20.17" },
+  { "month": 3, "day": 30, "start": "06.44", "end": "20.18" },
+  { "month": 3, "day": 31, "start": "06.43", "end": "20.19" },
+  { "month": 4, "day": 1, "start": "06.41", "end": "20.20" },
+  { "month": 4, "day": 2, "start": "06.39", "end": "20.22" },
+  { "month": 4, "day": 3, "start": "06.37", "end": "20.23" },
+  { "month": 4, "day": 4, "start": "06.36", "end": "20.24" },
+  { "month": 4, "day": 5, "start": "06.34", "end": "20.25" },
+  { "month": 4, "day": 6, "start": "06.32", "end": "20.26" },
+  { "month": 4, "day": 7, "start": "06.30", "end": "20.27" },
+  { "month": 4, "day": 8, "start": "06.28", "end": "20.29" },
+  { "month": 4, "day": 9, "start": "06.27", "end": "20.30" },
+  { "month": 4, "day": 10, "start": "06.25", "end": "20.31" },
+  { "month": 4, "day": 11, "start": "06.23", "end": "20.32" },
+  { "month": 4, "day": 12, "start": "06.21", "end": "20.34" },
+  { "month": 4, "day": 13, "start": "06.20", "end": "20.35" },
+  { "month": 4, "day": 14, "start": "06.18", "end": "20.36" },
+  { "month": 4, "day": 15, "start": "06.16", "end": "20.37" },
+  { "month": 4, "day": 16, "start": "06.15", "end": "20.38" },
+  { "month": 4, "day": 17, "start": "06.13", "end": "20.40" },
+  { "month": 4, "day": 18, "start": "06.11", "end": "20.41" },
+  { "month": 4, "day": 19, "start": "06.10", "end": "20.42" },
+  { "month": 4, "day": 20, "start": "06.08", "end": "20.43" },
+  { "month": 4, "day": 21, "start": "06.06", "end": "20.45" },
+  { "month": 4, "day": 22, "start": "06.05", "end": "20.46" },
+  { "month": 4, "day": 23, "start": "06.03", "end": "20.47" },
+  { "month": 4, "day": 24, "start": "06.01", "end": "20.48" },
+  { "month": 4, "day": 25, "start": "06.00", "end": "20.50" },
+  { "month": 4, "day": 26, "start": "05.58", "end": "20.51" },
+  { "month": 4, "day": 27, "start": "05.57", "end": "20.52" },
+  { "month": 4, "day": 28, "start": "05.55", "end": "20.53" },
+  { "month": 4, "day": 29, "start": "05.54", "end": "20.54" },
+  { "month": 4, "day": 30, "start": "05.52", "end": "20.56" },
+  { "month": 5, "day": 1, "start": "05.51", "end": "20.57" },
+  { "month": 5, "day": 2, "start": "05.49", "end": "20.58" },
+  { "month": 5, "day": 3, "start": "05.48", "end": "20.59" },
+  { "month": 5, "day": 4, "start": "05.46", "end": "21.01" },
+  { "month": 5, "day": 5, "start": "05.45", "end": "21.02" },
+  { "month": 5, "day": 6, "start": "05.43", "end": "21.03" },
+  { "month": 5, "day": 7, "start": "05.42", "end": "21.04" },
+  { "month": 5, "day": 8, "start": "05.41", "end": "21.06" },
+  { "month": 5, "day": 9, "start": "05.39", "end": "21.07" },
+  { "month": 5, "day": 10, "start": "05.38", "end": "21.08" },
+  { "month": 5, "day": 11, "start": "05.37", "end": "21.09" },
+  { "month": 5, "day": 12, "start": "05.36", "end": "21.10" },
+  { "month": 5, "day": 13, "start": "05.34", "end": "21.12" },
+  { "month": 5, "day": 14, "start": "05.33", "end": "21.13" },
+  { "month": 5, "day": 15, "start": "05.32", "end": "21.14" },
+  { "month": 5, "day": 16, "start": "05.31", "end": "21.15" },
+  { "month": 5, "day": 17, "start": "05.30", "end": "21.16" },
+  { "month": 5, "day": 18, "start": "05.29", "end": "21.17" },
+  { "month": 5, "day": 19, "start": "05.28", "end": "21.18" },
+  { "month": 5, "day": 20, "start": "05.27", "end": "21.20" },
+  { "month": 5, "day": 21, "start": "05.26", "end": "21.21" },
+  { "month": 5, "day": 22, "start": "05.25", "end": "21.22" },
+  { "month": 5, "day": 23, "start": "05.24", "end": "21.23" },
+  { "month": 5, "day": 24, "start": "05.23", "end": "21.24" },
+  { "month": 5, "day": 25, "start": "05.22", "end": "21.25" },
+  { "month": 5, "day": 26, "start": "05.21", "end": "21.26" },
+  { "month": 5, "day": 27, "start": "05.20", "end": "21.27" },
+  { "month": 5, "day": 28, "start": "05.20", "end": "21.28" },
+  { "month": 5, "day": 29, "start": "05.19", "end": "21.29" },
+  { "month": 5, "day": 30, "start": "05.18", "end": "21.30" },
+  { "month": 5, "day": 31, "start": "05.18", "end": "21.31" },
+  { "month": 6, "day": 1, "start": "05.17", "end": "21.32" },
+  { "month": 6, "day": 2, "start": "05.16", "end": "21.32" },
+  { "month": 6, "day": 3, "start": "05.16", "end": "21.33" },
+  { "month": 6, "day": 4, "start": "05.15", "end": "21.34" },
+  { "month": 6, "day": 5, "start": "05.15", "end": "21.35" },
+  { "month": 6, "day": 6, "start": "05.15", "end": "21.36" },
+  { "month": 6, "day": 7, "start": "05.14", "end": "21.36" },
+  { "month": 6, "day": 8, "start": "05.14", "end": "21.37" },
+  { "month": 6, "day": 9, "start": "05.14", "end": "21.38" },
+  { "month": 6, "day": 10, "start": "05.13", "end": "21.38" },
+  { "month": 6, "day": 11, "start": "05.13", "end": "21.39" },
+  { "month": 6, "day": 12, "start": "05.13", "end": "21.39" },
+  { "month": 6, "day": 13, "start": "05.13", "end": "21.40" },
+  { "month": 6, "day": 14, "start": "05.13", "end": "21.40" },
+  { "month": 6, "day": 15, "start": "05.13", "end": "21.41" },
+  { "month": 6, "day": 16, "start": "05.13", "end": "21.41" },
+  { "month": 6, "day": 17, "start": "05.13", "end": "21.42" },
+  { "month": 6, "day": 18, "start": "05.13", "end": "21.42" },
+  { "month": 6, "day": 19, "start": "05.13", "end": "21.42" },
+  { "month": 6, "day": 20, "start": "05.13", "end": "21.43" },
+  { "month": 6, "day": 21, "start": "05.13", "end": "21.43" },
+  { "month": 6, "day": 22, "start": "05.13", "end": "21.43" },
+  { "month": 6, "day": 23, "start": "05.14", "end": "21.43" },
+  { "month": 6, "day": 24, "start": "05.14", "end": "21.43" },
+  { "month": 6, "day": 25, "start": "05.14", "end": "21.43" },
+  { "month": 6, "day": 26, "start": "05.15", "end": "21.43" },
+  { "month": 6, "day": 27, "start": "05.15", "end": "21.43" },
+  { "month": 6, "day": 28, "start": "05.15", "end": "21.43" },
+  { "month": 6, "day": 29, "start": "05.16", "end": "21.43" },
+  { "month": 6, "day": 30, "start": "05.16", "end": "21.43" },
+  { "month": 7, "day": 1, "start": "05.17", "end": "21.43" },
+  { "month": 7, "day": 2, "start": "05.17", "end": "21.43" },
+  { "month": 7, "day": 3, "start": "05.18", "end": "21.43" },
+  { "month": 7, "day": 4, "start": "05.19", "end": "21.42" },
+  { "month": 7, "day": 5, "start": "05.19", "end": "21.42" },
+  { "month": 7, "day": 6, "start": "05.20", "end": "21.42" },
+  { "month": 7, "day": 7, "start": "05.21", "end": "21.41" },
+  { "month": 7, "day": 8, "start": "05.21", "end": "21.41" },
+  { "month": 7, "day": 9, "start": "05.22", "end": "21.40" },
+  { "month": 7, "day": 10, "start": "05.23", "end": "21.40" },
+  { "month": 7, "day": 11, "start": "05.24", "end": "21.39" },
+  { "month": 7, "day": 12, "start": "05.25", "end": "21.38" },
+  { "month": 7, "day": 13, "start": "05.26", "end": "21.38" },
+  { "month": 7, "day": 14, "start": "05.27", "end": "21.37" },
+  { "month": 7, "day": 15, "start": "05.27", "end": "21.36" },
+  { "month": 7, "day": 16, "start": "05.28", "end": "21.36" },
+  { "month": 7, "day": 17, "start": "05.29", "end": "21.35" },
+  { "month": 7, "day": 18, "start": "05.30", "end": "21.34" },
+  { "month": 7, "day": 19, "start": "05.31", "end": "21.33" },
+  { "month": 7, "day": 20, "start": "05.32", "end": "21.32" },
+  { "month": 7, "day": 21, "start": "05.33", "end": "21.31" },
+  { "month": 7, "day": 22, "start": "05.34", "end": "21.30" },
+  { "month": 7, "day": 23, "start": "05.35", "end": "21.29" },
+  { "month": 7, "day": 24, "start": "05.36", "end": "21.28" },
+  { "month": 7, "day": 25, "start": "05.38", "end": "21.27" },
+  { "month": 7, "day": 26, "start": "05.39", "end": "21.26" },
+  { "month": 7, "day": 27, "start": "05.40", "end": "21.25" },
+  { "month": 7, "day": 28, "start": "05.41", "end": "21.24" },
+  { "month": 7, "day": 29, "start": "05.42", "end": "21.23" },
+  { "month": 7, "day": 30, "start": "05.43", "end": "21.22" },
+  { "month": 7, "day": 31, "start": "05.44", "end": "21.20" },
+  { "month": 8, "day": 1, "start": "05.45", "end": "21.19" },
+  { "month": 8, "day": 2, "start": "05.46", "end": "21.18" },
+  { "month": 8, "day": 3, "start": "05.48", "end": "21.16" },
+  { "month": 8, "day": 4, "start": "05.49", "end": "21.15" },
+  { "month": 8, "day": 5, "start": "05.50", "end": "21.14" },
+  { "month": 8, "day": 6, "start": "05.51", "end": "21.12" },
+  { "month": 8, "day": 7, "start": "05.52", "end": "21.11" },
+  { "month": 8, "day": 8, "start": "05.53", "end": "21.10" },
+  { "month": 8, "day": 9, "start": "05.55", "end": "21.08" },
+  { "month": 8, "day": 10, "start": "05.56", "end": "21.07" },
+  { "month": 8, "day": 11, "start": "05.57", "end": "21.05" },
+  { "month": 8, "day": 12, "start": "05.58", "end": "21.04" },
+  { "month": 8, "day": 13, "start": "05.59", "end": "21.02" },
+  { "month": 8, "day": 14, "start": "06.00", "end": "21.01" },
+  { "month": 8, "day": 15, "start": "06.02", "end": "20.59" },
+  { "month": 8, "day": 16, "start": "06.03", "end": "20.57" },
+  { "month": 8, "day": 17, "start": "06.04", "end": "20.56" },
+  { "month": 8, "day": 18, "start": "06.05", "end": "20.54" },
+  { "month": 8, "day": 19, "start": "06.06", "end": "20.53" },
+  { "month": 8, "day": 20, "start": "06.08", "end": "20.51" },
+  { "month": 8, "day": 21, "start": "06.09", "end": "20.49" },
+  { "month": 8, "day": 22, "start": "06.10", "end": "20.48" },
+  { "month": 8, "day": 23, "start": "06.11", "end": "20.46" },
+  { "month": 8, "day": 24, "start": "06.12", "end": "20.44" },
+  { "month": 8, "day": 25, "start": "06.13", "end": "20.43" },
+  { "month": 8, "day": 26, "start": "06.15", "end": "20.41" },
+  { "month": 8, "day": 27, "start": "06.16", "end": "20.39" },
+  { "month": 8, "day": 28, "start": "06.17", "end": "20.37" },
+  { "month": 8, "day": 29, "start": "06.18", "end": "20.36" },
+  { "month": 8, "day": 30, "start": "06.19", "end": "20.34" },
+  { "month": 8, "day": 31, "start": "06.20", "end": "20.32" },
+  { "month": 9, "day": 1, "start": "06.21", "end": "20.30" },
+  { "month": 9, "day": 2, "start": "06.23", "end": "20.29" },
+  { "month": 9, "day": 3, "start": "06.24", "end": "20.27" },
+  { "month": 9, "day": 4, "start": "06.25", "end": "20.25" },
+  { "month": 9, "day": 5, "start": "06.26", "end": "20.23" },
+  { "month": 9, "day": 6, "start": "06.27", "end": "20.21" },
+  { "month": 9, "day": 7, "start": "06.28", "end": "20.20" },
+  { "month": 9, "day": 8, "start": "06.29", "end": "20.18" },
+  { "month": 9, "day": 9, "start": "06.30", "end": "20.16" },
+  { "month": 9, "day": 10, "start": "06.32", "end": "20.14" },
+  { "month": 9, "day": 11, "start": "06.33", "end": "20.12" },
+  { "month": 9, "day": 12, "start": "06.34", "end": "20.11" },
+  { "month": 9, "day": 13, "start": "06.35", "end": "20.09" },
+  { "month": 9, "day": 14, "start": "06.36", "end": "20.07" },
+  { "month": 9, "day": 15, "start": "06.37", "end": "20.05" },
+  { "month": 9, "day": 16, "start": "06.38", "end": "20.03" },
+  { "month": 9, "day": 17, "start": "06.39", "end": "20.02" },
+  { "month": 9, "day": 18, "start": "06.40", "end": "20.00" },
+  { "month": 9, "day": 19, "start": "06.42", "end": "19.58" },
+  { "month": 9, "day": 20, "start": "06.43", "end": "19.56" },
+  { "month": 9, "day": 21, "start": "06.44", "end": "19.54" },
+  { "month": 9, "day": 22, "start": "06.45", "end": "19.52" },
+  { "month": 9, "day": 23, "start": "06.46", "end": "19.51" },
+  { "month": 9, "day": 24, "start": "06.47", "end": "19.49" },
+  { "month": 9, "day": 25, "start": "06.48", "end": "19.47" },
+  { "month": 9, "day": 26, "start": "06.49", "end": "19.45" },
+  { "month": 9, "day": 27, "start": "06.50", "end": "19.44" },
+  { "month": 9, "day": 28, "start": "06.51", "end": "19.42" },
+  { "month": 9, "day": 29, "start": "06.53", "end": "19.40" },
+  { "month": 9, "day": 30, "start": "06.54", "end": "19.38" },
+  { "month": 10, "day": 1, "start": "06.55", "end": "19.36" },
+  { "month": 10, "day": 2, "start": "06.56", "end": "19.35" },
+  { "month": 10, "day": 3, "start": "06.57", "end": "19.33" },
+  { "month": 10, "day": 4, "start": "06.58", "end": "19.31" },
+  { "month": 10, "day": 5, "start": "06.59", "end": "19.30" },
+  { "month": 10, "day": 6, "start": "07.00", "end": "19.28" },
+  { "month": 10, "day": 7, "start": "07.01", "end": "19.26" },
+  { "month": 10, "day": 8, "start": "07.02", "end": "19.24" },
+  { "month": 10, "day": 9, "start": "07.04", "end": "19.23" },
+  { "month": 10, "day": 10, "start": "07.05", "end": "19.21" },
+  { "month": 10, "day": 11, "start": "07.06", "end": "19.19" },
+  { "month": 10, "day": 12, "start": "07.07", "end": "19.18" },
+  { "month": 10, "day": 13, "start": "07.08", "end": "19.16" },
+  { "month": 10, "day": 14, "start": "07.09", "end": "19.15" },
+  { "month": 10, "day": 15, "start": "07.10", "end": "19.13" },
+  { "month": 10, "day": 16, "start": "07.12", "end": "19.11" },
+  { "month": 10, "day": 17, "start": "07.13", "end": "19.10" },
+  { "month": 10, "day": 18, "start": "07.14", "end": "19.08" },
+  { "month": 10, "day": 19, "start": "07.15", "end": "19.07" },
+  { "month": 10, "day": 20, "start": "07.16", "end": "19.05" },
+  { "month": 10, "day": 21, "start": "07.17", "end": "19.04" },
+  { "month": 10, "day": 22, "start": "07.18", "end": "19.02" },
+  { "month": 10, "day": 23, "start": "07.20", "end": "19.01" },
+  { "month": 10, "day": 24, "start": "07.21", "end": "18.59" },
+  { "month": 10, "day": 25, "start": "07.22", "end": "18.58" },
+  { "month": 10, "day": 26, "start": "07.23", "end": "18.57" },
+  { "month": 10, "day": 27, "start": "07.24", "end": "18.55" },
+  { "month": 10, "day": 28, "start": "07.25", "end": "18.54" },
+  { "month": 10, "day": 29, "start": "06.27", "end": "17.53" },
+  { "month": 10, "day": 30, "start": "06.28", "end": "17.51" },
+  { "month": 10, "day": 31, "start": "06.29", "end": "17.50" },
+  { "month": 11, "day": 1, "start": "06.30", "end": "17.49" },
+  { "month": 11, "day": 2, "start": "06.31", "end": "17.48" },
+  { "month": 11, "day": 3, "start": "06.33", "end": "17.46" },
+  { "month": 11, "day": 4, "start": "06.34", "end": "17.45" },
+  { "month": 11, "day": 5, "start": "06.35", "end": "17.44" },
+  { "month": 11, "day": 6, "start": "06.36", "end": "17.43" },
+  { "month": 11, "day": 7, "start": "06.37", "end": "17.42" },
+  { "month": 11, "day": 8, "start": "06.39", "end": "17.41" },
+  { "month": 11, "day": 9, "start": "06.40", "end": "17.40" },
+  { "month": 11, "day": 10, "start": "06.41", "end": "17.39" },
+  { "month": 11, "day": 11, "start": "06.42", "end": "17.38" },
+  { "month": 11, "day": 12, "start": "06.43", "end": "17.37" },
+  { "month": 11, "day": 13, "start": "06.45", "end": "17.36" },
+  { "month": 11, "day": 14, "start": "06.46", "end": "17.35" },
+  { "month": 11, "day": 15, "start": "06.47", "end": "17.34" },
+  { "month": 11, "day": 16, "start": "06.48", "end": "17.33" },
+  { "month": 11, "day": 17, "start": "06.49", "end": "17.33" },
+  { "month": 11, "day": 18, "start": "06.50", "end": "17.32" },
+  { "month": 11, "day": 19, "start": "06.52", "end": "17.31" },
+  { "month": 11, "day": 20, "start": "06.53", "end": "17.30" },
+  { "month": 11, "day": 21, "start": "06.54", "end": "17.30" },
+  { "month": 11, "day": 22, "start": "06.55", "end": "17.29" },
+  { "month": 11, "day": 23, "start": "06.56", "end": "17.29" },
+  { "month": 11, "day": 24, "start": "06.57", "end": "17.28" },
+  { "month": 11, "day": 25, "start": "06.58", "end": "17.27" },
+  { "month": 11, "day": 26, "start": "06.59", "end": "17.27" },
+  { "month": 11, "day": 27, "start": "07.01", "end": "17.27" },
+  { "month": 11, "day": 28, "start": "07.02", "end": "17.26" },
+  { "month": 11, "day": 29, "start": "07.03", "end": "17.26" },
+  { "month": 11, "day": 30, "start": "07.04", "end": "17.25" }
 ]

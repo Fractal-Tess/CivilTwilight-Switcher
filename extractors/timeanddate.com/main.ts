@@ -13,12 +13,10 @@ console.log(filePath);
 const file = await fs.open(filePath, 'w');
 
 type DateData = {
-  civilTwilight: {
-    month: number;
-    day: number;
-    start: string;
-    end: string;
-  };
+  month: number;
+  day: number;
+  start: string;
+  end: string;
 };
 
 const dataArr: DateData[] = [];
@@ -37,18 +35,17 @@ for (let m = 1; m < 12; m++) {
       if ($(e).find('td').length < 5) return;
       return {
         // TODO: maybe add other light states
-        civilTwilight: {
-          month: m,
-          day: +$(e).attr('data-day')!,
-          start: $(e)
-            .find('td:nth-child(10)')
-            .text()
-            .replace(/[^\d+.\d+].*/, ''),
-          end: $(e)
-            .find('td:nth-child(11)')
-            .text()
-            .replace(/[^\d+.\d+].*/, ''),
-        },
+
+        month: m,
+        day: +$(e).attr('data-day')!,
+        start: $(e)
+          .find('td:nth-child(10)')
+          .text()
+          .replace(/[^\d+.\d+].*/, ''),
+        end: $(e)
+          .find('td:nth-child(11)')
+          .text()
+          .replace(/[^\d+.\d+].*/, '')
       } as DateData;
     })
     .get();
